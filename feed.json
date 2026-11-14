@@ -1,1367 +1,345 @@
 {
-  "version": 2,
-  "updated_at": "2026-11-14T20:33:52+00:00",
-  "queries": 10,
-  "successful_queries": 10,
+  "version": "2.1",
+  "updated_at": "2026-11-14T22:00:56+00:00",
+  "queries": 14,
+  "successful_queries": 14,
   "errors": [],
   "items": [
     {
-      "id": "4b284bd70d9639d7a0869fb6",
-      "title": "Guy Laroche Time Greece - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNdmhEeFFYb2NHd3NXTEFsQTdRYnd3VWZaZmZRdnIzc1dmUzgzems0RVhYanNtMl9MMThlNnpkRDdDcmFndG5lZDN0bTlBbFV1TFZYTFJSekNHMGMtRDhKRzNPTklNVlpBUU5qaWpqR1VWdw?oc=5",
-      "date": "2026-11-14T10:27:14+00:00",
-      "source": "Facebook"
+      "id": "b4d6d54ef4e73fdc9492d7f0",
+      "title": "Το μπλε του Corsair, από την άτρακτο στο καντράν. Το Breitling Super AVI B04 Chronograph GMT 46 αποτίει φόρο τιμής στο Vought F4U Corsair. Με μεγάλους αραβικούς αριθμούς και κόκκινη άκρη στον δείκτη GMT, κρατά ευανάγνωστες την τοπική ώρα και τη - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPRTB0SVBpSVA1bE5fdzdpdEM1b1hTc0hnbWNKNWw2VE9LWGZnSWNobVBvTTRudThObU4zcFNNNXhEcVZJcGRfNS01bEhFQXNFMDBLemZGMjdoaFhoMENjMmZsR3ZJT1VCOHJlaE1NaTZxZzJ4SGZWc0Y3aHBYQ1RpdEFnRTJpRGZHQXFvT2NHRkpiUVBCcmgzS0JRWm9mdWtPYXJ0X3ltNnM3bUc2WDdKMGFOWjlINHJlbENCZ1U0S0dRWV9WS2tDLW10Qkw3V094ZktXcDBEU2JseUlNTGMxZnlZY1dkM1lPNjNvSFROWGg1MEhMM1hsSmdxb3VkNl93a0pLNXhsMzd2Q3ZXdGx4czJTeldYQjBKbkoydUZWYW00NmVQMEZmUU1ycXdZbU11N282cU51UHV4a3dkU1NJMHJ6aXlDcUVrd2lqTnFzTUpRb2oybWgxRFdRcGRlWXVkUXZ1aTM4Z3VQRzlHclVrU1V4bV9YUWVOWWZ3eG1zaTdhVnhGRmlkeHgzMk5lWEVZdVdfcEh4R3BHcHZJUURpYWlTeTBGaDhfZTIzZEV1WklUeElqc3VfSk9tYVc?oc=5",
+      "date": "2026-11-09T10:50:58+00:00",
+      "source": "Facebook",
+      "category": "international"
     },
     {
-      "id": "d939026eed2f3f272a53a8cc",
-      "title": "🇬🇷🇳🇱 Οι Έλληνες που άφησαν το στίγμα τους στην Ολλανδία ⚽ Με αφορμή την αναμέτρηση της Εθνικής με την Ολλανδία, θυμόμαστε μερικούς από τους Έλληνες ποδοσφαιριστές που ξεχώρισαν στα ολλανδικά γήπεδα. 🔥 Από τον Νίκο Μαχλά και τον Άγγελο Χα - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM2ZHTk1USl8xSndheHJacy1XdzNIbGgtUXhMQ3plWTMzMW9pZ0E0UWJQbGM5b2lLbXlYS2ppV0ZlVkVGeGRtYnRHZDk5WEdOQ0E?oc=5",
-      "date": "2026-11-13T07:07:06+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "285ac34efdeb4ef9c084e15e",
-      "title": "Fraport Greece's 14 regional airports handled 3.6 million passengers in October, up 1.9%, with Rhodes, Chania and Corfu driving growth. Read more on Greek City Times. 🔗: Link in bio 🌐: greekcitytimes.com 📲: Download GCT free app #Chania #Greece #Cor - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ddjg5OFZsMTFZWHdfUXdZSEd2SU1oMEppSVhqZnpuSUlRWkRnN01kNDJBM2dtWmpkRi1QTG5ncHhJcXAyWUY5ZzU2WW9wVlNveGc?oc=5",
-      "date": "2026-11-13T02:25:12+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "00090ff204a85a51f0899f0e",
-      "title": "«Δεν αγχώθηκα λεπτό, γιατί είχα βάλει Hiplok στο ποδήλατο»🚴‍♂️🔒 Έδεσα το Trek Powerfly 7 σε μια ψηλή κολόνα με πινακίδα στην κορυφή και μπήκα στο μαγαζί. Μόλις πέντε λεπτά μετά, δύο πιτσιρικάδες προσπαθούσαν να σπάσουν την κλειδαριά με τροχό. ⚡ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxNdnhVRjhiNmNEYVhVZU5yS053MDlSYU5vdWZOeFJiWkpiS0NHb2tPcXZnUkM3RXRYNTliSFItTHUyRjRnXzFTYm1IZW5jWmVvdm9CT2c1MWtxSl9TLXp1TFpoYlpwbGxqR19GZFFFcmNWZThfOW5hWGdXWEp0aTFCdHFySm9uaW1HbmlHZVFnMTVlS2hURm0tVHNmQzBzSHVGRVF3QjE2X2tocFVqQjJ0ck1DWEp0cS1idzFtRW5vb1p5Y1FfRnR2d2l1OTNsRDgzWGJVRmE1MUZpSkxSdXNDVkxMWnkzaEVrdXVQbE9JdnI5ajloM29XMm9LcDR4bEh1NkQ3bVlnMEljQUNLQnp0SS04Q25heVhrUVo0akhMZm5NN1lXSlItMnpwNjVvUEgwcmFLV0IyZGxsczNzckxpTmFIRDQzRWs3ZzNDbnVoMV94RXQ1SXN0TzVnOWRtNkx0T0ZGUjRiTEVBWUkwY09RYThKTVNLR2laQ0o2djRfSHhBTGw1WFZvY0xRSTJPR1NnSmQwNF9CLWxZUHh0WTZMazNtM1RVS1BsZjBOZVkwRW5FYTZ1cWVpbnVlQ0dscTFRN0FGLUNtNWM1c042Uy1tVldUZnB6N3c0UDhzb0xZbUVMLXU1TlJwODNPeVNMOVF2ZE9NRG1pdUdzWTh1VFMxckpOejVMQjBja0JDWDktSWdVVDhkM2tMbS1lZGJwR19VbTIycE5KYmRmSEdu?oc=5",
-      "date": "2026-11-11T08:49:25+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "aaa2f58438187d346d2184dc",
-      "title": "3 ΦΤΗΝΑ ΡΟΛΟΓΙΑ ΠΟΥ ΟΛΟΙ ΑΓΝΟΟΥΝ ΑΛΛΑ ΑΥΤΑ ΤΑ 3 ΡΟΛΟΓΙΑ ΕΙΝΑΙ ΣΤΗΝ ΟΥΣΙΑ ΧΡΥΣΟΡΥΧΕΙΑ - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EakRvOE5tMDZBeG9IeE1tQmd2bXpqWndGYVhDSmdFbXl3aDJVQ2VoVmlXc1Q2RTVzTUhLYTBSTnhsVnRWQktnZzFfZTR1aFFNR3oxRE1B?oc=5",
-      "date": "2026-11-10T15:00:01+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "1ceb27d924a9078df9ba459b",
-      "title": "Jet2 : Ποιους ελληνικούς προορισμούς αναζητούν οι Βρετανοί για το καλοκαίρι 2027 👉 Διαβάστε ολόκληρο το άρθρο: link στο προφίλ #Δημοκρατική #Ρόδος #Δωδεκάνησα #ΕλληνικοίΠροορισμοί #Καλοκαίρι2027 #Jet2 - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KZmZuWEFTaUVPNUw0ZFQ4UjB1ZHROakF6WEJQNmJ2ODRrYXU3azVLSHQ3aC01Znl1WmxqMG1KOFFXWVhtaXg4LV9MY0NKX1JjNWc?oc=5",
-      "date": "2026-11-10T07:11:22+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "45776b31514c439dae07f5d3",
-      "title": "Κανείς Άντρας Δεν το Φορούσε Πριν τον Πόλεμο (Ρολόι Χειρός) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVUp6dlkxVG4zZWZzQklNZ3Z5VktuaUlTNE1lc0lQZENMa1lLVUo0UzFQSXVRelJ6OFVsVVNiLW95R2hkLXdZNnZGR1dnaG8wS29KMm5B?oc=5",
-      "date": "2026-11-05T09:00:02+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "5ad50a7858d10d090ac403f4",
-      "title": "🪷 Καθαρές γραμμές, ποιοτικά υλικά και εκείνο το διαχρονικό american style από την #GANT. Ένα ρολόι που θα το φορέσεις από το γραφείο, μέχρι το Σαββατοκύριακο. → Βρες το εδώ: orologio 📞 21 0591 0370 📍Μεγάλη ποικιλία σε ετοιμοπαράδοτα ρολόγια στο - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOTTJJX21WMVpWLWJxZlNyaV82ajY3dmZRanl6dThHVlVKZFNjbTZncEp0Q2FEOHVPODVOOGZxTzN1ZkFLQmlLZGZONHVJRUNNOUdiVjE3Q3JBelhkS1NnNEw2T0laSUdKWDNjYzZwYUNJMUVaa3I2ZFkxejRpQWZuSHh0S1l1U1laUUtCd29fZ3o4d0E1X3Z0UmZ3ZVVSbm5POThSZHVMenRCa3JOTklfeUJpaUQxanZJazVhb0k4eElHeHpKYk1xRHRWTFY1T2hOVW02RmRQNGZyQkNtcjAwS0lpT1dXZjRVbV9sek8wQWdhOHphd1NwOXRZZmJ0eElKd19iUExibVdHNDk1UVBndHN5bTRpTTFvNG5IYmRoWms0cUNzZEZnRFlvYmNLV2tYRUxKSnktTmptMlgtbnNjVUhZcXpDZVh0VHVZSEVmdVZSY1F2cGpfLVRlX0VNMTB2a3Rhc3lzbU02bnZfQmptTHBtalhFbmdpdjd2T1JZdTJ0VG9mcXJhNkZzbjFnOFJHYlRjYWF5NUhBRW1CcWJJcDdlb3ZzeDRSUFN5emFLZDVrRUFIZzRUYzk0eVRUTFB4bW1NR2FVUjVvZFVGeURPTVFHWnRGUjZ5QTJ3UXdJamczdVY1V29YcE5xSGl1NzZyV0JjS2xIOEY2OXRFNm16NGloQjdhWVV4dnVtYVRiZUkxVWl2Uk5hQndWUlNzSTBfUzFZNWJUeXZUT015MDdzVXVJWHAzSlBNR3pYckJ0Q20?oc=5",
-      "date": "2026-11-04T09:00:08+00:00",
-      "source": "Facebook"
+      "id": "cf05f516aa5d79253a96de51",
+      "title": "Η Breitling τιμά τα 100 χρόνια από τη γέννηση του Miles Davis με μια νέα συλλεκτική έκδοση του Navitimer - STARTUPPER",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDcwcVBYdUVMd2ZSTkZ5TXJHTkZ2R0tDNkU5cURxQzljREVhSEExT2lCa21sNGVDcHJOazFnczl6U0tOQVNSNU1jS0ZRVWpwYTNSVXQ0aG5mcGZobGl4WW53RXk5MG5vWlZvWEpsR0JRaGRQclpQem9VSDZGVXl3N2VJbWI0eHRvUTBqT29xVlR4SmtxdUlyVkNRaks0Z2F1Z0lRM0J3bVM5NllDM1laTXVHU1lYcTdCRWNxR3VtS2g0WG5PT2M1aWo4TU5DWEJZWEIxdFRDVQ?oc=5",
+      "date": "2026-11-03T16:18:41+00:00",
+      "source": "STARTUPPER",
+      "category": "international"
     },
     {
       "id": "b883e60955954a9f592f223f",
       "title": "Breitling: Τα δύο νέα Navitimer που ταξιδεύουν από την ιστορία της αεροπορίας έως το διάστημα - Newsbeast",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMGlLOVZxdXRINTlKMTZpVWdUVzhyT1hYalFHa1FlNEpBaE9rZ3N1M3hzOFZzdEx3dFlzWEdpZ0RvTEt1VFZ6dFBPYnNPLVdzdnk1S1lhbXZzTEpmbWxKOExqNnFzamtpODVseVFlTHFsdDZsOHpMS2lrQmppdEkyc3RVRkVlWDNxT0IxVkJhWjFxSjI0M29qVERuQ3lDZHdUVXBxeDhrdW56bDEzbXJwellja2xxaWFhc0hwS2J0R3ROdzdKNkQ5X3EwN0FPNW5GODRiZU9rYUlGMjZFcnc?oc=5",
       "date": "2026-11-02T08:00:00+00:00",
-      "source": "Newsbeast"
-    },
-    {
-      "id": "00c5bdcaa83efd825e027c69",
-      "title": "Goal Cyprus. . 🎯 Η αντίστροφη μέτρηση για την έναρξη της κυνηγετικής περιόδου στην Κύπρο έχει αρχίσει, με τον ενθουσιασμό των κυνηγών να βρίσκεται στα ύψη! 🔫 Η Γεωργία Κωνσταντινίδου, η μοναδική Κύπρια οπλοπώλης και πρωταθλήτρια σκοποβολής στ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQNnRqQmJsaG42ZEJaUm15emM4YVJwaERZRFdtSmhuUEdaS1VFX2pGTUlFYjZ2ZVJLUEtCRHhrYVIxRXhxSDhRUWhkTUYzSFJIUi10MzVJOGlzM1VnWXpJWW1RemNMUEo5OWVFeHdpTEFheG5zSUo5ZmJZRjBfNndUYXRGX3pmbTdFT1pOX0s2c3N2cXhtWTRvSzZFWk9YeWdZSEJJbU1SS1ppLU1JZFdzb2c5T2Z5eGtJalNCN2R1elFyc0pEOGFPY3RKajJJdlhVSmNJdnU0WnQ2NzF1bllQeC03c1piWk1nMGZDdU5KT0d5a2kwUHgzTUVpMFR1WDdWWGNxa3BLSVpTQ1pOQzAzb2V4eVZ6cGVWWEpnWEYwcXhvLTZyejFTT0F3N25Td0d1WnFjYjRpemdfQVN3dmlabXM4eDU4anBKTlhqVzBzRV91aENOOTF2ekhBcjBpYkdjcFQzVk41OGNDQkM3Q21uaWZHMTd4Q3hsRG1IVHQwYnZNRlZQT3U4MEJvRWVneThKZEMyclRFX2ktV1JNekNMQ0RkUl9hM0N2cTdnc1ZDcXYtV3FMWGJ3TVJfVjdEQjAxajNYM1pXUTl1bjhtTFRaX1FEMzFQUFNNR1lFMFlzdXNvdENDZS1VcGJuM2t1ZVNwQ0V5aEM5clE2LTZUWEdfYllOQkxxZk80MWNhZ2hicGQ2NnZOZ0R0UjE1Y2VWb2FpYnZrZHlBTFZWeGlQQU56UW1OdWxYWmlGbXMyanltTjEzeXR1NVRwMlRUSExCdk5rRmtFNHFMWVdTektER3hIM3hMU2h2X1BYX1BRZDcxME5LbHg2V1NIbGdiSTFETWdnaG9EV2dXMFFsS3JVd2FjOHV3?oc=5",
-      "date": "2026-10-30T10:44:07+00:00",
-      "source": "Facebook"
+      "source": "Newsbeast",
+      "category": "international"
     },
     {
       "id": "a2b912cfa6ad93a78f48fb72",
       "title": "Η Breitling φέρνει δύο νέα Navitimer στη βασική συλλογή της - Ελεύθερος Τύπος",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUlDeFV5UGR3MzhJRXN3M0lxTlRfSUdPRTNIQlhMeWtiV3h4a1M3MnhGRWZyZWZnNUozdlFGN1VZWDkzc2FuUVl2alkzSHlrSXZpaE55RFdMZ3ZBTEJkdVB5LXBiTDJ0NmQ4Z3RXVjhFLTZLT0o2bjh5dnhGOHZtYzlmSUIyVUVIQ2U1d3M2eWZHQzRTbDIzYS1fcFpDd2Zka0lPQmtn?oc=5",
       "date": "2026-10-30T07:00:00+00:00",
-      "source": "Ελεύθερος Τύπος"
+      "source": "Ελεύθερος Τύπος",
+      "category": "international"
     },
     {
       "id": "ca6a76c3b0ba5ce9ac9bb10d",
       "title": "The RHM is Athens-bound once more, and this one is rather special 🇬🇷✂️⌚⁠ ⁠ Next week, Captain Fawcett joins forces with the magnificent Breitling Boutique Athens (@breitling_athens_squad) and the Captain’s esteemed Greek distributors @thehairhub.g - Instagram",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xNkl1cHBiQTR1a2Z1emdRQmFBNVVXa2pZbjZWUldhWFhwOV9SbVJvVFlvWlZZSFJQMkhoZDBBOExjNGxONlBBcU9hVzJlNE1vZlE?oc=5",
       "date": "2026-10-29T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "470604494e24f97f6dd8440c",
-      "title": "🔝 Το #Lorus Sport συνδυάζει sport αισθητική με διαχρονικές λεπτομέρειες, χάρη στην ανοξείδωτη ατσάλινη κάσα 43mm και το δερμάτινο λουράκι. Το καντράν με τα μεταλλικά στοιχεία ολοκληρώνει τον δυναμικό σχεδιασμό, δημιουργώντας ένα ρολόι που ταιριάζει - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oTlZpZjFkZ0o2V19HcWhlMDJMcTAwZzJiMzYxM2FBazRSQ1Z3MnQ3Qk9ZODBYSDJIbzlRSGlMTUYwLW53NlowWEtoWXY2dWNBLXc?oc=5",
-      "date": "2026-10-28T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "52403d9799f074608b5dbe5a",
-      "title": "Ο Νίκος Καραθάνος, οι Γάλλοι μάγειρες και κάτι υπέροχα γεμιστά - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1dUIxRlAtRW9HVEVBRzQ4akg3Vm52cXlqbWJmZmtkNmVtemhwUE40TnN6VG1CYVBWV3RGdDBKcDNHWksyRGNfT1NrYTVRSlBVeEdjY1BB?oc=5",
-      "date": "2026-10-21T09:58:57+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "462e746aa365a9fae32bd3e8",
-      "title": "Είναι Απλή Αντιγραφή ή Αληθινό Ρολόι; (Baltany S3043) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aS1g4UnJzWi1qX1VRZjE1em5TdTBySkZidk1QMlpRNEM3NEptaUlzWGNmemQyVUZXbkVUSjJjZmdBcm9YNVZmZmQzX3MtS2NJbmtFRlZB?oc=5",
-      "date": "2026-10-17T08:00:14+00:00",
-      "source": "YouTube"
+      "source": "Instagram",
+      "category": "greece"
     },
     {
       "id": "50db57f5753c0dcfcc3f3f03",
       "title": "Η Breitling δημιουργεί μια αποκλειστική εμπειρία εξατομίκευσης για τους αγοραστές του hypercar της Aston Martin, συνδέοντας την υψηλή ωρολογοποιία με τον κόσμο της αυτοκίνησης. - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQbXJTLVpaLUNZTDlJeVhXQmlHMnpBMXphdzd5WWVwRVZkaXpkVk44WFpLNmtHNmVqRWdxSnduUEpCcTQ0aERFcDY3XzU5WmMzTGVxakR4cGJBVmx5SlhSci1YZWRZMzBsa1VPLXFEVm9tUmhhYmFtUzRWbTU2N0dVa0pEbzJFbXZFRl9UV193bWZKZ3Z6ZmVQNUYxSEZFSmFsWldTOHdrMTU5RFFLcnRCYlhvdG8wWmI4TEpaX0RhNmZ6WjNVUi1sN3NOaVlIVlFpOENMRHg3a0RnX1hwUDJIS1N2bjdpS3VnVk5NRFlGU3FDUFpkLUZiaTFETjM0VUp0MTBvbW1XRWZuYWFqVmQyVjNuWTVMSXp6Q1FOUldqeXlWb01jV29UN1h0eE9yRzNyWEpJSG0zcFpLUUk2dlY4NTA3dm1FckY1UkVCODh4ejMyNVFEUS1YLUlCcjdtNXJaN1ctUVRVY3h0dGNVNmZ3ak9YaDNKaFhLeVFVamZycWt6eDM5RWwwMHJyY3h6Wkt1aXQ3WDBGOER5MndLQ29wTjhIWGExUmRzVmw2NVVfU2h5clBGNUhwaWh2ODAtVF9STnFYeTFYdG45OWZvRUZqQTNqb1hVOXo2S182YnllZ1c1WkxTNm92VTJjWTVmQVkySzlUT3RJX3dkZzRTVXo4QnptMHEzcFZBTjd3RGdGQUxyQ3VZeW9zSDlSakY0UG1paUpNV2lRLXdTbU13Y0dZejN6Yy1hQWFuemcwMklJc3BxdnVWR0Y1UmJtNGlDRW1weS1GYjdBV1lVRjMtdU9keWtQRkxhaU9HN1FRWVBZNkdNWTJEOGc?oc=5",
       "date": "2026-10-17T07:00:00+00:00",
-      "source": "Facebook"
+      "source": "Facebook",
+      "category": "international"
     },
     {
-      "id": "f26cec81c551b0b7b7f23991",
-      "title": "🚨Προβλήματα στις πτήσεις σε ολόκληρη την Ευρώπη προκαλεί η εμπλοκή στα συστήματα αεροναυτιλίας της Ιταλίας, επηρεάζοντας τόσο τις πτήσεις από και προς τη χώρα όσο και εκείνες που διέρχονται από τον ιταλικό εναέριο χώρο με προορισμό άλλες χώρες. - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01OWQ1SjhSV3liZzVJOHBfN25tVTF3SjNITHhlaE0yN3hjTlM0VGhMUjVUM29EdElnaG5hYTE0Z0FuM0s2S0ZkQ2ZLd2FNNUZsbHc?oc=5",
-      "date": "2026-10-16T07:00:00+00:00",
-      "source": "Instagram"
+      "id": "4f6249bba6ad89d3e194f37e",
+      "title": "Η Breitling σχεδίασε 999 ρολόγια με θέμα την Aston Martin Valhalla - NewsAuto.gr",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkxqMi1kbjR4LXJwTy1zdmdvcFQ3MHNVQWp4NndzSi04NXNhMG5RVmdNeUIwNTNTb0d1QTlxOGE1Sy1XQW1lTlVIdnYyY2pucTZDM2VsOHFrcThRTFlZSXQwMHB0YjZJVHhfa1A0dlA0Z0pjY0NjelJjSmh6eDZYVDE5ekNFOUNnakdwb0NhTkZmNHBtbmFSeG10a1RBa1E?oc=5",
+      "date": "2026-10-17T07:00:00+00:00",
+      "source": "NewsAuto.gr",
+      "category": "international"
     },
     {
-      "id": "b30a4f38408300e8ad21f80f",
-      "title": "Αν Είχα Μόνο 500€, θα Αγόραζα Αυτό (10 Σπορ Ρολόγια) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OWUNNREM3M056eVNzT1F1SDhzLXFWQ0VHNzI0VGw2ZHRNWkF4cDJFdFhFYmFQdEZxWW9PcTNUWlpHMW1DOTRwU0xRY29xR2ZHeG9Ed3p3?oc=5",
-      "date": "2026-10-01T08:00:00+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "150734a8f5842b72d5455fae",
-      "title": "Νέες προοπτικές ανάπτυξης ανοίγει για τα 22 κρατικά περιφερειακά αεροδρόμια ο διαγωνισμός παραχώρησης που βρίσκεται ήδη σε εξέλιξη, προσελκύοντας μερικά από τα ισχυρότερα ονόματα της ελληνικής και της διεθνούς αγοράς αεροδρομίων. Η εμπειρία των - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00NE04SzUtLWxfaEJCam5DSmptbFdOWGlSMnJFYXNIbGxsWkc3d1c2NmdTM2hTM0pUdFJQMGtTeVhITVd6UWlJblZQaGhaYnhVQVE?oc=5",
-      "date": "2026-10-01T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "464416ff5e9dae3eaf082433",
-      "title": "Με διψήφια άνοδο Γερμανία και Βρετανία \"ψηφίζουν\" Ελλάδα #Δημοκρατική #Ρόδος #Δωδεκάνησα #Τουρισμός #Ελλάδα #Αεροπορικές https://www.dimokratiki.gr/01-10-2026/me-dipsifia-anodo-germania-ke-vretania-psifizoun-ellada/ - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTXBaUkkxcEp5cFAzQlRfa0pwOWpQWHJEUVFXMnU3QUhDZmItSUszT2NmQlVid3JNYW9YYWxMZnJCanRSR2tqVndmYVl4ZjlIbmc?oc=5",
-      "date": "2026-09-30T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "d070b9224246efca6a77494d",
-      "title": "Sneak peek από το φθινοπωρινό τεύχος του Esquire Greece, που κυκλοφορεί αυτό το Σάββατο 26 Σεπτεμβρίου μαζί με την εφημερίδα Κεφάλαιο. #esquiregr #manathisbest #newissue #2026 @its_the_duke_dude @fafalaki @kostchristou @johnbele @_achille - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MQ3FpZ3B3RkF0QXBMd09HLS1qX3MwZlZUVTBfTXAxb3F4dlloQ2p1LXVmTUtRNUxpMFNVel8ybEVCZ21VaWVlYXJZQ0xLaWMxSXc?oc=5",
-      "date": "2026-09-23T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "b46c04d924fd4a1eeeb36ede",
-      "title": "Με θετικό πρόσημο κινήθηκε η αεροπορική κίνηση στην Ελλάδα τον Αύγουστο, ξεπερνώντας αισθητά τον ευρωπαϊκό μέσο όρο. Αύξηση 4,1% κατέγραψαν οι εμπορικές πτήσεις στην Ελλάδα τον Αύγουστο του 2026 σε σύγκριση με τον αντίστοιχο μήνα του 2025, σ - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PbFN4c1FXVWNidmhzSU5oT25kSjlmSXZZX0Vua1lHajh1YkdBbENoUE1ERDVUOGFkdlRzYXlaM0ZVU3lIYk5NMmswbko5OVoyY2c?oc=5",
-      "date": "2026-09-21T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "a998f1f099eba750704dc6da",
-      "title": "Καθυστερήσεις πτήσεων HORECA: Επιπτώσεις στο planning Η Ελλάδα βρέθηκε στις τρεις μεγαλύτερες εστίες αεροπορικών καθυστερήσεων στην Ευρώπη. Πώς αλλάζουν το planning σε airport F&B και ξενοδοχεία.... https://agorahoreca.gr/eidhseis/eurocontrol-ka - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYXNfZVc4cUtDSk5fN0JON1FyQlBuRlRtU1k5aVZRd1RCMUJBUDQwVGNldFpXQ01jaXFWVS1GOTJWTFFwcXJVNUtObjV5aHI1T1E?oc=5",
-      "date": "2026-09-16T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "8ba7f9629dfb4e086a1b2d0a",
-      "title": "10 καλύτερα ΚΑΤΑΔΥΤΙΚΑ έως 300€ που ΝΙΚΟΥΝ Μεγάλα Ονόματα; - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56ME12eklPTlZiWm5PQ0RMR1ppeTVUemtwa2gzbjlGaEowY0FvcUJ1LWlMSW9PYmJMOVduc1lheFJLWnEwdWk2QUM2MHdHTEJFc2p2eDd3?oc=5",
-      "date": "2026-09-15T08:30:15+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "c6b5ec487cfca920a02229cd",
-      "title": "Η Ευρώπη γνώρισε ρεκόρ αεροπορικής κίνησης κατά την καλοκαιρινή περίοδο μεταξύ Ιουνίου και Αυγούστου, με σημαντικές αυξήσεις για τις χώρες των Βαλκανίων, σύμφωνα με στοιχεία που έδωσε την Παρασκευή στη δημοσιότητα ο Eurocontrol. Ο ευρωπαϊκός ο - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwbmJuTHZSS3NHVm12dGx4WEpobE9DT1ByRkxDMDZseGk4M0NnR2R1VFJzcUhuU0FPcWl0RFdSRTNDS3piZnpNdlRLaDhfWTdjNVE?oc=5",
-      "date": "2026-09-11T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "aafe1913688ffb82446615eb",
-      "title": "ΠΟΙΟΣ ΠΛΗΡΩΝΕΙ ΤΙΣ ΕΠΙΔΕΙΞΕΙΣ ΠΟΥ ΣΚΟΤΩΝΟΥΝ; Μια πρώτη απόπειρα για πλήρες ρεπορτάζ για την τραγωδία με την βοήθεια της Al και ομολογώ πως τα πήγαμε θαυμάσια... Μετά την πτώση του F-4 Phantom στην Τανάγρα και τον θάνατο των δύο χειριστ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxNU2Ewcm9ZcDJOWUlJSndtTGtpbVRnNXBFQ01NSzJDWk9ZVWRCRTRPVW1mcmk3R0JKSmlyNHZocmQwOUs1eXd6Vl9ZOHF5MlFqRDc3UEVfM0FqZGQ4dUd5a0t3d09tNVdNdmVnVlA4Z0NjSTFZR01wT0xyQWlwQ3ppZmp1ekwyLXhBd2kyNXRUTUg3SGpLUUN6Sjl2Xy1rOGlxTU4yeVVJVjhtQVROc0RSUENOMXZrRHRaem9reU5XblZBX04wclJVUHRkSklEak00VDJKWktNRml6RHZWNnV0cUJCa2x6Y1lpQ2ZrM0JCdmE2amVKdVQ1WnB6NTlnbllSVVk5ekJjejQwdnRwMkd3RkRQNk84SFBfUnRYTmE0Q1VOZWpLbXktVjRxZHl6WE9xYkVydjl0dFRDeDVzdGFvMDZXS1o4aXBueGVyRkpYcEpMcDl6Uk9Sc0tBR3hiVGxBY1RRNWZabUJiX3h5WTdhYk9wUXJuZndjSi1rYmE2NTBsUlgza1N4c2t3S0Y4NWhBZmc4TGFxcVlXSkJwVk45a1JWRWJpR0R1OUo1Tm9MTWltSkVtblVuMzZMU1VIdUlHcEpmTTZFQ0xRbFhWSWZzZVN0VnpGN3hJQnUyT21YVmdqZHJFV1REaHVqWnlwSVM5a3M1UjczNVE1UlFFc3FMdUl6V3JKTk5DXzROaHlPQ3ZMcFVPc2VOQ2twd2VWN2dwdTg4d0k1azIzSnVWM2NrbTlHVE5TNlBVYkNVRnp5ZGJDc2E5M2RBeUtfdWpGR1FGUlFqdGY1Rl85VFpxS0VRWlZzT3hMZjBSRmo3a3g5YXFRWkJLV2padGNRdXZQcHExSHlpcEZ0aWNHTFZ2eGloYl83ZGxTTjZlMUwxeFlHMmsyc25lRDdPNi15QQ?oc=5",
-      "date": "2026-09-05T07:00:00+00:00",
-      "source": "Facebook"
+      "id": "0622f5137daaf5134abcb5ae",
+      "title": "Miles Davis: Το Breitling του πρώτου αυθεντικού influencer επιστρέφει - Onsports",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3JJM1JuSWNMNE1YM2VyMXRWa3ZiUGQ2UTlsM3dUUGxxZlJfdldaMXA0dkM0UWJUdWVtOHQxUkVlOUhjWFc5NFphR0ktTnhzQ1BVN2J2YWI1TUQzaW1mR1otNEdKRUNmLWgzTkRlZWRHZFkzZGkycERwRHd0b0hGZ3NaOVhfMW1IUHdGZ3NYX1VGZ2FRWVdEdlVySS1VazY1ZmphajZzc2FkSmtlR01n?oc=5",
+      "date": "2026-09-08T07:00:00+00:00",
+      "source": "Onsports",
+      "category": "international"
     },
     {
       "id": "6e690322fd21ffef2aaa52fa",
       "title": "Η Breitling ξαναβρίσκει το Navitimer του Miles Davis - mononews.gr",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmEyRkdUR0k1dzdHd3NQZHQyb3lXbDROQ2VqdVY2RnRCSjF0akp2UWtaaGFCRXp5SnR5d096LXJDMXlPRHZqZk9TTE1NSjVZY3pYUmdTVVUxQzItQkdXdEctendjNmVrLUhrTzNxdmtrTE1PUzJKejFYa3JDNS1ERHgyQVFtR285VUxZRg?oc=5",
       "date": "2026-09-04T07:00:00+00:00",
-      "source": "mononews.gr"
-    },
-    {
-      "id": "cd21663f1a3b05fe664f36e8",
-      "title": "Ειδικοί του κλάδου ανησυχούν ότι η κατάργηση των προσωρινών ευελιξιών του συστήματος εισόδου/εξόδου θα οδηγήσει σε νέο χάος στα σύνορα - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndnJSU2p3dV84M0JobDNIalFqaEJlMlBXcWIzUlA4Uno5WXRFV2plNERhU3ZTYXROSjRJTkhsMHBEQ0RmWndCY3d1MElnU2RGUHc?oc=5",
-      "date": "2026-09-04T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "75882a1d7db23867425d3b2c",
-      "title": "Στα 10 αεροδρόμια της ΕΕ με τον μεγαλύτερο αριθμό εμπορικών πτήσεων φιγουράρησε το «Ελευθέριος Βενιζέλος» το 2025. Το ελληνικό αεροδρόμιο κατέλαβε την όγδοη θέση με πάνω από 260.000 πτήσεις, σε μικρή απόσταση από μεγάλα ευρωπαϊκά αεροδρόμι - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDM1YxZ1ZsRnAzRFVQeXhtYnRKT3FONnhBRXZOTUJmX29VRjFROWNiYUJsdVlqcjBFeVJISWk3SkpQMnBPcWU5MGRzR2g2MF9VLXc?oc=5",
-      "date": "2026-08-28T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "de85d6d608d8cb60f1f368a3",
-      "title": "Εδώ Αρχίζουν τα Καλά Ρολόγια (7 Επιλογές έως 300€) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mdnBSWVVZQWFsTEVMWlAtSWtGQjdhOFY2Z29RZzh2NUtCMHk5TDZuMTVfbGZBVDd4a1pOd2ZFeG9FZVZpcVA0Wl80cGZfVWNFMWpDb3N3?oc=5",
-      "date": "2026-08-10T07:00:23+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "ab45549979471b443eeea65c",
-      "title": "Ένα Δείπνο ή ένα Ρολόι για μια Ζωή; (Κάτω από 100€) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6MnptOVc1dHBYU1o3bDh1VnR0NXFsQkxYYkNnazgxdVZXNWkxXzZjT1NfTWVwNVZSMkh3RFdhRjRDanpnN1J4dGdRYUYtLWVIaGczY25B?oc=5",
-      "date": "2026-08-05T07:00:38+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "8839662c90f3a29a6f0a28ba",
-      "title": "✈️ Η Ελλάδα καθυστερεί να απογειωθεί Η Ελλάδα βρίσκεται ανάμεσα στις τρεις ευρωπαϊκές χώρες με τις μεγαλύτερες καθυστερήσεις στις πτήσεις, μαζί με τη Γαλλία και την Ισπανία. Σύμφωνα με τα στοιχεία του Eurocontrol, η χώρα αντιπροσώπευε το 13% των συ - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52WGRGWm00N2lxTlhyMHlxVVQtQVpaa3MxUGw4U1VwTzRSX2VBMEFfRVRITzVvSG1acEpHQ1lyZVctOTZpMmNDRVlQY2Fxckxmbnc?oc=5",
-      "date": "2026-08-05T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "aa6cd955c9b7981b5e68a3d4",
-      "title": "Ήξερες και εσύ τον λόγο που στις διαφημίσεις τα ρολόγια δείχνουν 10 και 10 ? Γράψε μου στα σχόλια 👇👇 #wacthes #fy #marketing #ρολογια #facts - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55WVBZSHgyUUxUWkxoejlWemdOU0tPRVZ1dE9qb0V1QVRjNUQtVkkwUk8zb19MLUhBRUlaSW1TZUdFTFc5VUxhMDc5dDBNTURUeTlfaEZB?oc=5",
-      "date": "2026-07-28T07:00:00+00:00",
-      "source": "Instagram"
+      "source": "mononews.gr",
+      "category": "international"
     },
     {
       "id": "5c7cbe91845a689df82989df",
       "title": "Συλλεκτικό ρολόι-φόρος τιμής της Breitling στην Aston Martin DB5 του James Bond - topgeargreece.gr",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTY2YVJWSkw5TmFaUUdqNzc1cnJ0a21KX29fTlBESkhWY3FWaFUtYzF5UzFVZ1FQZUwxdzFtUlhZRHQ4d3g2QnNFWVRhdlpFa3dsQ0txNDhmZDRuWTFFU2V1TXVqSUZMSWc5ZE1ZREdjMlRtOEZUOVYzNGZWTGRJelRQNGpVUjRLMXg1UHlBQnRLUlpZTzRXa0p2dWFCdUNFQ0RWZlluUVNkX1F2S0l6RHFIWEVjN2ZwXzlqbDZTZ9IBywFBVV95cUxPVUtlX294anJlbjBvVlcxRm1uNVNTcElDOUZQMGFZNXNsUE9MYmw0WV9naHd5UU1xeTY2MVFMVko5alE1T1ZRcld6dXp2dTJGWFlGM3R5ZlFId1lwN2dXbXU2dU9uclZGZXMtc1pOSF83MTJPUmpEd202VUN3TFZPX1JkMV96QURWbGlfa3FSQzVTVW5HcHI4bUw0MnR6djh6RXB2MkZtdlNzSF9yU1pzMjJUWFZLNnRTNURBdlZMSk5WQVJudWxEMEg5Zw?oc=5",
       "date": "2026-07-27T07:00:00+00:00",
-      "source": "topgeargreece.gr"
-    },
-    {
-      "id": "0007196a75d1ab20d3c376b3",
-      "title": "Ο Κωνσταντίνος Θεοδωρακόπουλος, ο Αλέξανδρος Τσελεπής και κάτι bar στην κορυφή της Ευρώπης - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jQld1aTRWbUxfa2p1YUxfR0NBVkV4ajZtOWF1a0IxOEFZcHl3SVM5cWZXZUkzZ3ZYbU5HemJXc0hkbGdyZUhqeU1QY29vSWpfWEJpSi13?oc=5",
-      "date": "2026-07-08T14:06:59+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "ac6963872d8ea3cba773ee16",
-      "title": "Ο κόσµος στα πόδια του Erling Haaland - Esquire Greece",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTAzZnZoSGQ5bVRDbERzcEZHNU1MZFY5c01NMnpnemN6ZEZOc190STM3NUtLd1ZGYkVGNGVxMXVldkxvSnNPY2FfQjJVUmgzSThPUW1hMUlwZ2RwRld1UnJjZUxfU3c3UzZSYnB4S3RXeFVUZVVrVGw0dUcxMkppLWdpYU0?oc=5",
-      "date": "2026-06-24T07:00:00+00:00",
-      "source": "Esquire Greece"
-    },
-    {
-      "id": "8d754aa98364b3d6f9617e71",
-      "title": "Μια νέα εποχή ξεκινά για το Διεθνές Αεροδρόμιο Καλαμάτας «Καπετάν Βασίλης Κωνσταντακόπουλος»! ✈️ Με τη σαρανταετή παραχώρησή του στην κοινοπραξία Fraport AG, Delta Airport Investments και Pileas, ανοίγει ένα νέο, σπουδαίο κεφάλαιο ανάπτυξης και - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kLWdfVXp0LXI4OG1QSS1sU3YyZlpNb3VQU0Fmd1V6UHdDbWltcHpGd1dpZTRQVExSNVlJRFN0Sl84X05LNTM5TEhhNjVISzFOX2c?oc=5",
-      "date": "2026-06-22T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "006bba4a9e3f38d8fdc983fe",
-      "title": "SITIA AQUATHLON 2026 Εκκίνηση 2ης ημέρας￼ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVlRGeEt6ZlNZdzJGQ0tGTXNHNDVfWWpXTWE2ZDFHWExyYTgwOTRtNEM0MnMtOTlwQS00djBmS3JUM25jQ2hIcnV2b3JFLVZrLXZhcGt3a0oyZFZmYVlOQnVGeXpmOVFweE9Rci1sUHoxZHRrS1JYMWJjX0RqaDl1VG9oWG95VVk3QkhSWjJHeEZrY1VYcFRTNGVMenJYaC14YjlCZGF3WHZqdms3R2N2WWxCVkRzaDZUZk13UU9QTENZNXl3NUZCUjRRNkQ5bnFTRjZhdnNnRGZFZ1B0S0dJZWc1LXREZlFkV1dKc01uM0ZYamZ6eGxVUzhYSFJhMGxub0pRS2tNSVF4eWd4TlE?oc=5",
-      "date": "2026-06-20T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "bdc3bb8dd4008a8fb9ea331c",
-      "title": "🔴⚪ More than a football club. A lifelong passion. Created as a bespoke commission for a devoted Olympiacos supporter, this hand painted timepiece captures the pride, history, and identity of one of Greece’s most celebrated football clubs. Every brushstroke is - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9haXJoMDBNeVdJc2RzVlBZX2REeldpMmFYTEc2STRJNVJsUllweExyVzJ4Ui15QjNsYi1fd3dpb1J3aVNTaU1IbXY1c09TcDRTb2dIUW5B?oc=5",
-      "date": "2026-06-03T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "521b824b516331a6eb4afefe",
-      "title": "Relogio Hublot Ayrton Senna - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53WDZFNVZETWl3SjlfQURmT2ZyUkJXVV85M3BvNzdseWtxc2tWMHAtV2p2TV9PV2MtNGFvdzJIZVY0bGoxRWxzRVJFclFLZ3ZfRVRrRk1wSy1GRXNOOExkMTNOa1EzLXdWeVpWWnczQQ?oc=5",
-      "date": "2026-04-30T02:50:03+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "7348d237e96f719c485f6fe8",
-      "title": "Περίκεντρο . . Μαθήματα ζωής παραδίδει ο τριαθλητής Νίκος Τριανταφυλλίδης από την Πιερία, ο οποίος πάρχει από σκλήρυνση κατά πλάκας. Ο δυναμικός αθλητής θα επιχειρήσει ένα σημαντικό και γεμάτο συμβολισμούς εγχείρημα, ένα challenge 24 ωρών κολύμ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQZEdGSXlQVzZCZmhRWWd5ZjBPdld5WlZQck44MFNfRHR3WU5jaXdCcngyMGYwSmtReDItd3FPc2ppSk9uWF9Ual8zMzRkaHM4N3V3UGtkNWR0TnRsVFNPWFBzSm83SlFHcFlfOE1kVUhEUnBtekdvaDJMd1lFY09ZdDJyTllUV0ItZUw0NWhoWDYzai1lRXZaWEtuM0M3cll1QXcteXVldmloMmd3Tk5UaHBzTHczcFB2bnpWNmhkeHhoMHZLTHl0bmkxanpuVmZzQVEzWmg5MkVCdVg3YXJScnZuNnZabmo5OFYxOVE1bzE4clI3eTJPekZnQzgzdFdrbXJNcXZGQ2RuQzE0c2dPaUlIVTNQUTdYOGtaOUxaRVRmbEtFNGQzRmg4bU1XVkNwNmVxaFlxaS1xRUphSFJzSlp5UTU5Y2wtbnhXWE9hbjdYc0paMktjZ05VbmlHRUNPUnI3ZGlVQzA0a3M5WXhqTnpoRVRpWVdpMURyNjJVV3dycmpyLUhTOU5BdTg4cVVPUTNuTVBGYXE5bUtpbEpWYXJJaldENTlJZUJ3VWxTQ1lWOGJBX1lKREkwR1M3eVdsME1CbE12NEJOTEFFZlZCNDk2ekxXWlgtdlVGTlg0RzAzWXJfWkRDLWFEQ2ljdGJSLUF1YzI0V3BPQ2UzMGlFUUtiVEVDLWpial8zWnN2VVVadENTZlZ3bUtLWkxvVUEyWE41eUZfaU9pVkhZMnlOZFk5WmZGS0VkNUtwUllaZ0xuSXVOa2M1ZEVkb3hLTS02RUNDTjRnWEsxNldpOVltend5MFdzZEpYLTFMSXpVc1FKMTV5clloZWs5N1ZqYnJlTU9sYTQwX255SU9KOGVDRDdsR1pJN2ZEY0l6VzhFa1d2a1ZaWFpyOQ?oc=5",
-      "date": "2026-04-23T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "2520da22748d78cfa0191587",
-      "title": "John Todd Formel 1 - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hbGUydHJmWllJZGkzMlRLcDIyX3JqLWVxWnZxVW9OdU9nQzI5SWgwbWlxSW5sUEctUGx6cGl3SURlTVI2X0tXb3BBVXUzeEpJNGdkU3FLRFR0cGZpTmU5cDZBOA?oc=5",
-      "date": "2026-04-03T17:07:04+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "fb4430b8491fc0d22faf69c8",
-      "title": "καραγιωργη σερβιασ 2 7οσ οροφοσ - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVHNuV2x1M0tSYXk0M21XaWdOMHJqQmFfUkRHdnFQenBmSFVXSTVrMmRTRWo5ZnR6UUZzMkxBU3BoLXhMQVB5aVo5SW91b2lwMDU4czllZ2MwLUdnNF9wbmhXbnd4c1U1VEhkdG14M3RiRG5nOGVpOEE1UVFrclJkZF9Gb2J6VkMxOE5DWjZwLUdET01Ed1dVZTNWeG5JWFNydDRsM2V3UGI5N1picDBKc3BfQVY3Vk1VSW5HVDYtQ2tORUpqbGdtMkF3SWF4TnRWWHFpX1VsSkxScUhTRUd5Tzl3NXVHYXhsdGR3N3VXY25XdjRWeVBlQVZtWloxSHB6U0xsV1hRdm5FZkNTT2xCaTJPVHF3MmVuNjZR?oc=5",
-      "date": "2026-03-27T10:35:31+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "f5530e5ba1e2fee15c99f13e",
-      "title": "Erling Haaland Watches - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUzk0RkZMSTBIV0RwdXlGcHVZTmZtVkgxajlGR0dVRzVnTnhLTmZjZnBGZ1FTUXh1QlBQYlM3MG1EMGJGLUVIZnoybE0tdGJudXM2UmdVcE5ya05zZVFmelN3d2l5RFNa?oc=5",
-      "date": "2026-03-27T01:11:51+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "3ebd42dba6843bacc51e13eb",
-      "title": "Audi F1 Team Watch Sponsor - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hUHEzWFZqUXZzc2tQdWhMZzRDR2lqU25tN0VyYk50LUZmbzlDczYySnR2bjRQaWtqUGpUVW43RFdrVDYyak1KOUgzYldFQXExUG1CQXlWWml1VE5qaHl3bjM0WDh4UHo0TXhfRFJ3?oc=5",
-      "date": "2026-03-26T02:08:42+00:00",
-      "source": "Instagram"
+      "source": "topgeargreece.gr",
+      "category": "international"
     },
     {
       "id": "e3ed44099a040875924026a3",
       "title": "Breitling x likewoman.gr: Η βραδιά που άνοιξε τον διάλογο για τη γυναικεία φύση - LikeWoman",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejk2RDJfUlhRcG1kNzBVQU9YMzAzTnJtWkh1ekZqU2pvUkp0ZVFKRGF5ZXo1QnBRNUstY09jRkd3WTVFTFdPNDZDaGZHRW5aaWJCdkdqQ3hNb1h0endKS0s1OFFDa3g1Ymd0dFZNTjdFNHAyMWpYdENRdE9kOXp3QWkwRFhoTFFkVEw1UENON1k4c3FVUkk1eFA3N0JsaVl6TWNRU3hKNA?oc=5",
       "date": "2026-03-20T07:00:00+00:00",
-      "source": "LikeWoman"
+      "source": "LikeWoman",
+      "category": "international"
     },
     {
-      "id": "ff23306b4d17ce61ea3f3f21",
-      "title": "Aston Martin F1 Team Ovr Silicone Strap Watch - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOTRaaC1oVUp4aFczSlFfMmNYTFBGV3FwUERVYXZJcWFESWtBV2ZrVTdFRWVHcVNTY0pGdWlQYzdLQnlxYms0SjZqU05zM3lWMXFZX2lrbGJLRkNlSVFRdEdXOWNkX0d5X2RuYmlkeHh4a0NMRGNBdmwtXzFVdWtqemViQXpWY2M?oc=5",
-      "date": "2026-03-16T12:51:35+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "07bd30decc86393312f5510f",
-      "title": "ΑΓΟΡΑΣΑ ΑΛΗΘΙΝΟ ΚΑΙ ΨΕΥΤΙΚΟ ROLEX - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82ZWFSZjR5dl8yQlpoTGJ0OXlsMDQ5QjU3TmphWDJreldCaXVMY0dLWUZKcVhQVVE4S0NtUldpWHNHVXVoTTBjTXlYb3hzN2p1QzV2RnZR?oc=5",
-      "date": "2026-01-17T10:01:10+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "d0d20149b5724178deacfbfd",
-      "title": "[Ερώτηση] [Valusis Volt] Μπορεί κανείς να μου πει κάτι για την Valusis; Τα ρολόγια φαίνονται υπέροχα, αλλά η έλλειψη συζήτησης και το ύποπτο μάρκετινγκ δεν εμπνέουν εμπιστοσύνη - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3JLQmstWU1zeDVMNVFMMm14MktBMHY1a281SmVLaHN4R1RNY2dvbzd4WWhOQTZ4N1NsZVZBTUh6NFFmbzFPUC1Nbm91X0ZRZ0drMmRHRlRfZFEydlpmcGRJZVYyOGJnMVZNZ2o5OHUtM3hicmUxdUw2NGhMY2RwY1Exck5yTTc1MEZWSzZPUjdNSDJIQzlaOTRoaFVhVXJhZ0drZ2RVRXdjQQ?oc=5",
-      "date": "2026-01-09T08:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "bd76215db82288c321d9bc8c",
-      "title": "ΑΝΑΚΑΛΥΨΑ την ΑΝΕΡΧΟΜΕΝΗ μάρκα ρολογιών? (QUANTUM Watches) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oMFBYWkhrZDVFUXVlMGpVbkNnM1VRSDdaRUVjSEhBR2JzM0F5dE9YSElXWEZNbkxwUVRLdE9WZ2s4SGlOYjVXU2pUaThOWXZBRTJPX0VB?oc=5",
-      "date": "2026-01-04T12:00:29+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "4b5ceaa805d42e359def0b24",
-      "title": "Oroeora Printezis - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3VjVfOFpLbDhUV0xKeVBPUlhHX3VxbEoxUzcwTXZDT1VWcE5lNWV0dWdDdDNCTmdSOXJWSGlmUXIxb1cwTkZOUmFhWVV3UDZRcS10MGlORlBZNzNOcGp3dlpB?oc=5",
-      "date": "2025-12-13T04:46:01+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "9638957b09c18697522c6285",
-      "title": "H πρωτεύουσα της Πορτογαλίας έχει γίνει από τις πιο ακριβές πόλεις της Ευρώπης στον τομέα της κατοικίας. Η αναζήτηση σπιτιού μοιάζει πλέον με περιπέτεια. #Λισαβόνα #Πορτογαλία #στεγαστικό #κρίση #κατοικία - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0UtZXhpUmMzZlFUcDBfZWx6UEJGSXY1SE9FTGNOay1OWlphaTBuUWE1TFUtSlBZLURyVl94VzRxNm9XX21sWDVVWGlmbFVCVEdjMjFRazExSGlyVjhFQVRCYkxkQ01Ld3N2UlFlVUpfYVhCQnp3ZDZUSmR5NU11MnVWNFRPVVJoNHBWaWpZbGFIUFRNTlVPbE5UY2wyQUdnY3c4VkRWbGJ2MVlvSFkzSUswNURZWWd0cG1HNVVvbWZWZnZlVWdNbUoyUU9UMjB2SlJhMjNvMmZjTm05N0RpOUVOZmpTOExIZWkzejNYVGE1Sk5k?oc=5",
-      "date": "2025-12-12T08:00:00+00:00",
-      "source": "Facebook"
+      "id": "76c934e573f6504518074f62",
+      "title": "Michael Jackson Trailer Reaction 🔥 Timepiece ⌚️by @breitling @breitling_athens_squad #michael #michaeljackson #johnnyatthemovies #trailer #reaction - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnc0p4RzZpV09NeHQ3ZndvTWZnMzhTcnl0M3RNYVZNaHdFYVNDUXgtWEZFZkhsYUhiVHljbVBWZy1rQ05Jc0RsZXc2UFVScEwwT08xT2ZPUkgwOVE2RUE?oc=5",
+      "date": "2026-03-02T08:00:00+00:00",
+      "source": "Instagram",
+      "category": "international"
     },
     {
       "id": "0c67c5e685290b10ece14c50",
       "title": "Έλενα Δεδούση: Η γυναίκα που επαναπροσδιορίζει την πολυτέλεια και φέρνει τη γυναικεία ενδυνάμωση στην καρδιά της Breitling - LikeWoman",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOGxKV3JCQXBMX3FBSlprSkZBZWpxbWplTlhfeWZHNEE5MFl0T3Vtb1JnYzhKaVUzdmF3SHdHSkZIblNIXzhzLUwtaU9sekE2ZW50NUFBN1BoVzZ3ajQyU1d3cHhCU2QwVkQ2VjlMcXlncURRdWloMS12VUMtZDFJaUFVOFg4bld4MDVPZWxiZWdXQjNRM3ByYm45c19uR2dXZ0FSckVNbjh5amM5a2NNaDNOMHFCSHFKTzBObV9oejdKRktUTm9iUkxGNTBXQVVVQ3BvNnQyejRxNEJScGtzSg?oc=5",
       "date": "2025-12-04T08:00:00+00:00",
-      "source": "LikeWoman"
+      "source": "LikeWoman",
+      "category": "international"
     },
     {
       "id": "5cb8bf4bde27a34257544aa9",
       "title": "Ριφιφί: Η νέα σειρά του Σωτήρη Τσαφούλια 🎬 Timepiece by @breitling @breitling_athens_squad #rififi #tsafoulias #cosmotetv #johnnyatthemovies #trailerreaction - Instagram",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zdDhjQ1V4UkEzWXlNSnBpenVTR3cyQ2JHZTBjWWlNclpIemxGQ2g4YlpwVXZDNlJGQkxIbEVWZWt4NzZxdVRramRBOTA5VzF6TEZjZlpR?oc=5",
       "date": "2025-11-14T08:00:00+00:00",
-      "source": "Instagram"
+      "source": "Instagram",
+      "category": "international"
     },
     {
-      "id": "bb4cba0981f192e942eb55ed",
-      "title": "Race Moments | ΔΕΗ IRONMAN® 70.3® Costa Navarino, Peloponnese, Greece 2025 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sRlIzRUh4aFlfUlFEUG4wUEt5ZEVwZXBNemJVU3E1TmxaWjRQRk5hV1Y3dVhkbTdvSVpubW1rUGNmclNqSEpac0hZVmtlbDF1QldtUTJB?oc=5",
-      "date": "2025-10-29T08:28:26+00:00",
-      "source": "YouTube"
+      "id": "b439959406c78570d108964c",
+      "title": "Η Breitling και ο Erling Haaland υπογράφουν το πιο διαστημικό ρολόι της χρονιάς - downtown.gr",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3U2QXphblBvaXFFeXlZcldELU1LVkJmNl9fRUxRbkxJb1JfangteGtQRk9Ualp1QXJnaWVBTjJUQk83MjllYnRJNjZBcmlrRXM2d3NCSEI3U2wxV3R3MFVjbXI3VGJIS2tTYmdZUzQyWlNHcVVBS3hMblR1UWlmbjJ3ck8zTUpOcEJhQ2piZExOVExZenNrNklKcTM4SExwMl9J?oc=5",
+      "date": "2025-07-16T07:00:00+00:00",
+      "source": "downtown.gr",
+      "category": "international"
     },
     {
-      "id": "2fcc9c511152b39162d56bbe",
-      "title": "Save the Date! The Charity Cycling Race Posidonia Tour 2026 is coming! From Athens to Sounio! An iconic new cycling route along the Athenian Riviera, finishing beneath the Temple of Poseidon 🇬🇷 30 May 2026 Get ready for an unforgettable ride by the se - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fM2VBREVrREZvbUp2ZGRlanM4UktRbDVPa0FESWpsU1ZBS3hOVEM3V1FsQlQ1MFo4MldFeFVKTzdrVTdkdmxfZVNlSWNLSkFRdXc?oc=5",
-      "date": "2025-10-27T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "f9ec703a986a83eab68e3e44",
-      "title": "Alexiadis Watch Service (@AlexiadisWatch) - Mentions - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kZjZJLWtWWjhKVkNrVUZGTVlBM1BSOG5UdXVqR3RvR0N3dzJfTm9Pa2t1aGNldWl4em1VVzZhLU5fYURnNWdxc2o3MUtfMlFKZlhTbElRUU5YWFVzZGc?oc=5",
-      "date": "2025-10-17T05:36:54+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "9f97cf23ade82c78a587ca76",
-      "title": "Ο Χριστόφορος Πέσκιας, το αμερικάνικο ποδόσφαιρο και το σωστό σουβλάκι - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PQmtqWEtVWS0xMFhVOGstZV85SVhTekdoWVZpQTVtcXpFTEY3b1gzWUwtMy11TjVNb1ZBQkRwTVctM0c5QVlDWDF6Y3RNQlNaNWEweHhR?oc=5",
-      "date": "2025-10-16T07:47:01+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "504d9e0a2062645d539432a7",
-      "title": "Ο Δήμος Μπαλόπουλος, τα micro bakeries και μια πρόταση γάμου - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uYW50R0wxUnRESkkwNllIdHNrWmdMcDNjeUZPUzdIOGtNQUJtZ2pWX1VuaVEySnk0dzJGb0M0a2FqT3NzbU9idlBNTm5UT2xRUGNNOXl3?oc=5",
-      "date": "2025-10-01T13:45:00+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "6ab005405bcda1a6edb169d7",
-      "title": "Ο Άνταμ Κοντοβάς, το αιγυπτιακό ρύζι και οι τάσεις φυγής - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZmJiLWFXbzdub1JaRFhDQXdncEVsY2JqWHhaV3hlbVdOYnNLNmFqcTBTaG5qY29QcGtaY08wejVDblMxbllDUzZkSWc0SHQ3a3VJc3RR?oc=5",
-      "date": "2025-09-24T13:43:43+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "e026c581110320d4ee990c6e",
-      "title": "Οδοιπορικό στις Σπέτσες - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42XzlvVURBcU1XTy0yZF9pLVFKZ2pWTmlRVlh3cjlDV1h5aWNQMWhGaktPTFYwRVFNUWtBUnBaNU5HTFBQUnBNUnRrUEJnRTNyd1BfQnBR?oc=5",
-      "date": "2025-09-14T10:49:48+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "8bf061cb65bd9b3b8e4b5f46",
-      "title": "🇬🇷 Δείτε το πρόγραμμα για το Φεστιβάλ “Αρμάτα 2025” από τον Δήμο Σπετσών εδώ! ℹ️ Επισκεφτείτε την επίσημη σελίδα του Δήμου μας για να βρείτε αναλυτικά τις εκδηλώσεις του Φεστιβάλ«Αρμάτα» — της εμβληματικής αναπαράστασης της Ναυμαχίας των Σπ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNai1wSFZqbC1salNuV09obm5kRlJsWTZ3X0NrMGUySmNGSXFrWDl0LW0xZkdZZHRpaUhrRDFqUEoxQkhNZXkyX05jM1Z3MGZCY3NucWpYLTduSGJ5bDl1enVFZnRrN1l5VWdFSnY0c0VwLVR2a2JiRzR0R0tXdjlfREEwekk0V2FhZDM2NDdrQzhIUU1xUnNuYW4zVXByZWhTYzkxMHlYb2syMFhpWm0tdXYzMHM4MXc4OTV2NjFLVGo4RXRTdkRoZUl4VUNEelRRVUZrNEpaMERPdU1OOGx2TWpuTkpCSDdIZWJqRk9hYkRfN1hfclFMNUtlX1hwOWR1U182eU5fRmtmS0tXV0VXai1fTGNVLVEzRGM0RkdnZTlsLTZ5eDNjZ0dlTjFEWG9xbXd4aUQ2RDNXSzBhTVRpbjBFcG80SHpUcDlzZEZtSWRDQ3hkOWtuYV85SU9ud3VCZG5rejBwTmlkMEFKb0xFbVdlUDgwcHIzbm5zZlpFT1RESWFZLWNycXNVTWtqVGR3ZTl2NEwzdDdsOGJsZG5sRUYzV2NtNlNQZURJSkV1eGxlaEIzb0pIUDRHWW9LSy1pWTFnUmllU3VIZWlyT0sydnJYSkl5a2xmWndvT0lrMHJHMGtJSW9NRXUzTmVmbWUzR3hqQkotTWdlTlh4Rkt4aE1xVldFU3hMUE9DNzRLbXFmVlVaV0RzY1VpN3plRF9FQTVxV3hFeUFkOFJ0ZXE1aDBCbU5lQjJjc1hRRnZEYmlOVzVQZDRhVnBwaE1BY01uZ1ZXVFVYdHg2eHVYd0VzS3JtNGhyR2ozQjRLVlB1VUlXcFQzdURHVk4yLVFsZDA?oc=5",
-      "date": "2025-08-18T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "45f1172c72a1ad860097ddb6",
-      "title": "Βόλτα στο ιστορικό κέντρο της Βιέννης! Κείμενο - φωτογραφίες: Omorfa Taxidia Η Βιέννη είναι μια πόλη που δημιουργήθηκε για να είναι ωραία. Και πράγματι σήμερα είναι μια από τις ομορφότερες πόλεις της Ευρώπης που συχνά φιγουράρει στην πρώτη θέση του - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNb1RrZHBjSm9rcG1QMmFsbjAxM0tjTU5kY0pZRHRyYkxmSDg3RG8xSFlFLTZKX0RuNXdOYUZ4ei13dmxJZ05yZUpFY0IzcFFrWXl1TEMwQlhUeU1UMDROc1ZWUVY0WmkzTmtIaGNtX3h1TkpPdVByTm5jTVVyeTZzdUZ2VmtIbjItUG9odS1HZkhqaGhGVWpYVjl2anYwUUhqU0JmVDdVVzR6dW1vMkN3cjhiNjRma3l1LUJHanhuU2FDMHpyZjJzXzVQR0NlWERFWDdYdFdDc1BucUgwaS0zcklxX1AwcDduOEtQWENsb2lVZmN1OTNDZFR2a0lCb25ZVFM5RzJ3V3ptQVprVmctUkNvbG5KWVdmUEtYYlNFVVVjbm9ZakVaRkZhQzVibTRycE9WNVMwZXZpMExLM3A4TFdhc3ZLR1NJbWkzWXhMcF9SMUFONXRObVBpM2NreVZ1a2NwZHRYT21hVmtiOFk3ekdYd0ozZ09rN0owQ1luSXpQLVVhREpwQVUxNVdkZ3RwOG9JbFJNY01XSDlsbk15SDhzX0RNYjFfYlhtM3lTS3JoLXR4bjZuOW15NVB2cGlaV3dBQXVmQmhWOTB5OVg4eGtnVUdiS1hiOERLcEVzZEVfLXVrZGZVX3JGNEFQeFlMMmZlaV8xV2pJNWNScmhBbjJFWW5GZDQ3cnAzRnY1YlpTS282czR3RDBfcmlvTlYwNllTdG5nakxfdU1DNW80eDBKdnBUVjJYOTlGY2x4a3hmaFF4SEFBbHExLW56eHh2eC16MU1Iaw?oc=5",
-      "date": "2025-07-17T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "da191d790d5c5d4c0724600a",
-      "title": "Η Κατερίνα Στικούδη, το απαντητικό F.A.M.E και το καλοκαίρι της - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYR2diSmJLVFJGTVF2V3NkRGlRb1M5RUYwZXFjQnhhbnhfemZ1UXNOanJYaTcwellIbFN0YW5HSjZPUUgyb0ZlTWR1WFhJSllPcEk4aWl3?oc=5",
-      "date": "2025-07-16T12:31:16+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "c9d5ca685a331f92d96e5233",
-      "title": "“Sailing through time with the Rolex Yacht-Master.” #PreOwned #OROeORA PRINTEZIS #Rolex #YachtMaster #LuxuryWatch #Timepiece #WristGame #WatchAddict #StyleStatement #RolexVibes - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zZFEyaktSbjBtZ2tJS05MMWQxckNjSlVZUXVKcmdYUmROS1hrN0pDbjBQRlBmekpIVXR5c0NWazFyR1VJMUY1MHgyb2F0SklPR3FJT0pB?oc=5",
-      "date": "2025-05-06T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "c06d61dd52a8bc0ea0728ae3",
-      "title": "DIDÉE GROUP (@didee_group) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oOEN6SFgyUjR1MnYydF84ZmtSekFKcHlfYjJ4R2FUMk82ak9WNFZYVGFNZDhMREtMLTBmdGRjYXJEQWljcl9PcXhtWnh4TTQ?oc=5",
-      "date": "2025-04-18T16:16:23+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "1bbae0c4897b10357430724e",
-      "title": "Πάρε & εσύ 100€ κουπόνια TEMU! Ήρθε η παραγγελία με την τσάντα & όλα τα άλλα! - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTjNHVE9fQ1J3WElkd25HTzdxSEJmRG9PazBaU3dIczNiZm84YmFTdXBOcDlRUjU0SzBkeGVEeGVVOUJWdk83S09XSjVWY3NhTmdDd1lR?oc=5",
-      "date": "2025-04-09T12:59:26+00:00",
-      "source": "YouTube"
+      "id": "8ec121470d5d675c21bd8d53",
+      "title": "Ποια είναι τα πιο εμπορικά ρολόγια, των μεγάλων Brand? Part #2⌚️💸 Πάμε να δούμε τα μοντέλα με τις περισσότερες πωλήσεις! Εσύ ποιο από αυτά θα φορούσες? 👀 Γράψε μου στα σχόλια! #omega #breitling #iwc #panerai #tagheuer #topwatches #bestsellingw - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51Yzc0dndxQnRTLUNfUGlvS0JiaU5MLTVQTXp3dVJpZkJqVG16TGdsNnNIUFI1eDM3aTFCTml2ZWlvRFJpSS1vRXZGRHZUbGtHZnNNd01n?oc=5",
+      "date": "2025-04-10T07:00:00+00:00",
+      "source": "Instagram",
+      "category": "international"
     },
     {
       "id": "032fb942cc738f8e178d6288",
       "title": "Ακόμα αγαπώ το ρολόι Top Time(mustang). Αυτή είναι η έκδοση γενιάς 1. - Reddit",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTJaV1BPMk9lbFlaUUM2YkVoOHh1T0hOUFVHQ1lHMldaZHhORFRCQTcycF9wZ3pleE45cFpHUDc0N2VTVUhoeTFiRWFoVkw2a2N1czRFVFl0alRkRExJdVhQTHppTm90akNJMjlGSjJkZnNGRzgtZEFYSUw3YnNhWXdhTE9VeDF2VGpwak5ueDZJdU9pZ3Zna0d0aGhIclgwb1hKR0I1MHh5TU0?oc=5",
       "date": "2025-03-24T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "98fd80d6603d5c5186017112",
-      "title": "Καλώς ήλθατε στο αεροδρόμιο Θεσσαλονίκης «Μακεδονία».🛬 Στη Θεσσαλονίκη, κάθε ταξίδι ξεκινά με μια μοναδική εμπειρία. Από τη στιγμή που προσγειώνεστε, το αεροδρόμιο σας υποδέχεται με την αυθεντική φιλοξενία και τον ζωντανό ρυθμό της πόλης του Βορ - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lV3ptWlpnUFZsa0lEMWYwWFVYUGhFdWh1ME1uNXBJUVd6UUhrZy1lTk15T1VjazRpemNIR0tza2tzbmVZanJ4YWJILXhQYW1rWWc?oc=5",
-      "date": "2025-03-17T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "8db7c8c70784a755330caae6",
-      "title": "🇬🇷 NBA Greek Freak Giannis Antetokounmpo and his family are broadening their investment portfolio in Greece with the reported purchase of one of the country’s leading wineries. Giannis reportedly through his investment company, Ante, has bought the Se - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qYk9sSnRMdVJpMm5JeGdyRDdSOTRsLXM3SGRpWURwcXZyeUdXMC1ZMk5sdWRpeGEyVGpyX29kZHVJSlVXM3JaV1UtcnRnNHJhRnc?oc=5",
-      "date": "2025-02-12T08:00:00+00:00",
-      "source": "Instagram"
+      "source": "Reddit",
+      "category": "international"
     },
     {
       "id": "117dff69629cfb38458bc375",
       "title": "e-Business & Digital Marketing World 2024 - Έλενα Δεδούση, Breitling Hellas [Δηλώσεις] - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vQ2tYR2s2Z1dtMFo0dS0tVjRMdDZRdVA1RElVUVFBTXlNVkJ5YTZESUEyU3JrZ1NJZjN1dHJhMEYxY3d5WWFtX3hWTGgyRkVZVUxkZUtB?oc=5",
       "date": "2024-12-24T08:14:09+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "b8f9f87c6555f868ed217b4b",
-      "title": "Καλά Χριστούγεννα από την ομάδα του ORO+ORA PRINTEZIS 🎄🎅🏽 #OROeORA #PRINTEZIS #CHRISTMAS #ATHENS #GLYFADA #PIRAEUS - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxORkJOczl2eFVUbTNhYzd3dXJfYjUwRXc0bG5YNHJFMWNrSTBQdUppUlppSVNxX1R1b0FNaFF0MjVwbUczMmkxLWFsM2lheWM1bVZRb3o1c19PYm5YOERYYnplM2F4eGhJSkdldzlSZmp0TmtPdmpta0pCWGMtdDF4ZXFUQjZaT19lMnVNZklyaVRIaUZrZFRmTDV3LW5zU0N2VW10UHROZGVDdWQ1RUVZM1RlNkVudnI5UTlzc0hELUtSTnB2bGstc01nWnFfMURYanotX00zazcxM1dubmhNRzBtV1lRRmNHejdqcUs2LUh2WHdxVlBwWWQ3R3RPRXVRQzRHSEZuWDR4NGV4aVQ5NklRRFpyQlhRY1g1OWlIdzBEN0Nxcmg2SHBob0gwU0tzdHQxb2U4VUtCWS0wRjZnUC1FRFNPclFzY1B3S2Z4LXJBX1ZPTDNCck5LeU9kX1dqWWw4YlVRaGw3ZVlWWEFYTHBobjlZdTNxLTU4eDZvd0x2MXNKeUdkaHdnVXcxbGlFbEMyNjNBNGFzcXJt?oc=5",
-      "date": "2024-12-24T08:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "171fe1725b0b6d02b41d9fc6",
-      "title": "Esquire Townhouse Athens: Όλα όσα έγιναν στο Amalias 36 - Esquire Greece",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDNuc01tZkh0QTJZZ25lOGhEZDlSS2o5SGZXRkxtZF82NVRNaVU2T1Iyd1pfRFR4TklIMlpPeWFFOUdnSE1OSFJMTHVsM1ZtckJ4enR0d3J5cjZVcldhLU9FWFg2QnJtOFRPNHd0WDB6Mk42MXhNSHZKYmtOa2w5NkdQdU5DWGZtTjhwdkI0T3JfazNBOUplOA?oc=5",
-      "date": "2024-11-22T08:00:00+00:00",
-      "source": "Esquire Greece"
-    },
-    {
-      "id": "4308e8e2b7d1107c71c10ac6",
-      "title": "Η Βάσια Κωσταρά μιλά στο Grace για την πορεία της μέχρι σήμερα και απαθανατίζεται με έμπνευση από τα '80s - ΤΟ ΒΗΜΑ",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2lhdEtEZVR0M3JYX3k4U2czTHhKRzlMeURReElVblBlSW5DVVJEQ1Y3STYzUlhjMXJBODJxcWNlWURvNUFFRGh2ZEJ1TTh1azQtcUdEbVM0RG9PcTBsYzY0Y25WWWlVaDczTnNPRW5jMVZRSk1pT2hsLThoSVhwUmswcHI0QjNrZHR1WjUtc0dOWVlUcmIxUkh0TkZ1aGVDcldKeHlMT3VLQ3RZcC1sczFyYUNkTm9QWXlnTVRaNUtiQWp6NVRhTXladHkxN1hnLXFqbGp3QTJMQQ?oc=5",
-      "date": "2024-10-14T07:00:00+00:00",
-      "source": "ΤΟ ΒΗΜΑ"
-    },
-    {
-      "id": "62a2592bb26ed3871a571ef7",
-      "title": "The-Watchmaker STORE - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tRk5QRzFZTE9sTFNwd1pYMmtZMl9zRHVZclNtdENjMHAyUW9ROWhpd0I2ZXpBa1pTaUFIbWpMeUxRUHRpNTJBSV9rd1JzRGRXSWZTblNmbXFIazBGbnkwczdaOG1JbDQ?oc=5",
-      "date": "2024-10-11T14:18:25+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "d04060326f78cdd7061257f4",
-      "title": "Ευχαριστημένη έκπληξη με το shake \"Tasty Food in a Bottle\" του Lidl (πιθανόν μόνο DE/EU) - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObm4tSVdSaXlmTzNNcXdFb3FoYjlyZzBHY21sajJ3THNjQ1NDbHF6ZW54M0lvdXNKazJsTGNIeFR0VE5TYmhRaUd2WDZITE5hdVZwOTUwOFBuYmZwUWhFdm9OdTBrRHJVd1ZBZ0NzRU1rbmRucTEtZ1VNaHFJaFh6Y2hSSi0xMHh1MlZOMWpxYU5SUklFWUh2N3U1d2Q2N3p6UGc?oc=5",
-      "date": "2024-09-26T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "33e6981938da40286b36b577",
-      "title": "Huawei Watch Ultimate Green Edition - Greek - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VSWpuQzZJUGpfTkxodUt1U0N5dHItOWNlanF2VUtlaGc0XzhhQ2VCMER1TFZqWl93MU0xeEViQ2JsRE1DS2Qta3VMeFR2dW9ONERLeURB?oc=5",
-      "date": "2024-09-21T08:00:18+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "c9b6a129293cf4224ee45b3c",
-      "title": "Filippos Kyprios (@philipposkyprios) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YczlYSFdFVUZEUW1HVUtwal9sbzFkRkhwWURDdzNtYWY3dHRaN01kYUJJVFM0Q1pKZmtUZGFPMDZZQ3Q4VmdrSnRHME9KM1VKcW93eHl1RjhWQm00eV9aY2RDUVdkUQ?oc=5",
-      "date": "2024-07-30T00:16:15+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "2d36976379c9f73dc60076a1",
-      "title": "Le Boudoir Salons (@leboudoirsalons) Reels - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJUEFGUzdTS0l5VjUyVjcyd2tDazA3YzI1WVBqcEEwY3dQakZNNjV5dnJGOUxDOVFPdXhBd2xlQ0FScFcxQW8yUzhMb29DUDc5Y2ZMWFg4QzhBc0Vl?oc=5",
-      "date": "2024-07-12T12:59:41+00:00",
-      "source": "Instagram"
+      "source": "YouTube",
+      "category": "international"
     },
     {
       "id": "a881d9d99033443f28ee80ff",
       "title": "Θεσσαλονίκη: Εγκαίνια της πρώτης επίσημης boutique της Breitling - Cosmopoliti.com - Χριστίνα Πολίτη",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemJtenlkR0ZMckNBS0FHc3J0eXkySEhycWx1S0tBN0cwSmJNNUExWEsySjFibEpOZ0hPQ1c2bzR4TFQ3RVBUd0ZrS0oyNFBGQ2hTQzRBNVlBRVNwdzlVNWRpbmNwYi1GT1RWRUFCa251YU95azUyUVNJSy1Ua1J3bnU1R3NaMjZOWnJiSzhFM09pTVk?oc=5",
       "date": "2024-06-22T07:00:00+00:00",
-      "source": "Cosmopoliti.com - Χριστίνα Πολίτη"
+      "source": "Cosmopoliti.com - Χριστίνα Πολίτη",
+      "category": "greece"
     },
     {
-      "id": "57e0ecd6f2609b158decff26",
-      "title": "Ο Παντελής Διαμαντόπουλος, οι ψαράδες της Μάνης και το φαγητό στη Τζια - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UcC1iNEEzYmVCb09JRnRpTk1wUXl3bHIyRENfTkZKUXM2enRQWDVkbWd2T1R5b05hZ2tjVGhEMUhyek9nVlNJaV9ibDVtMUpkX0NMYWlR?oc=5",
-      "date": "2024-06-20T07:30:32+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "18922632ea0a1f5d39d8e4ad",
-      "title": "IG CYCLING (@ig_cycling_touring_races) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YMXg2RkhHS1NNbUVXWEZ4ckMyaTI1OVgwRUxiZVA5QWVyU2daLTZRU19HdkxyV0dvSHdtZ3F4c3hxLVJFX2pkY1hoNElzdUpkbkxsX3dWZkFGQm1peU43ZA?oc=5",
-      "date": "2024-06-07T14:16:57+00:00",
-      "source": "Instagram"
+      "id": "910e5c7b78c5b8c89c6bd37b",
+      "title": "Τα λαμπερά εγκαίνια της νέας boutique Breitling στη Θεσσαλονίκη - GLOW.GR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2ZrVlRTcTdrT3JIUEJ3WUZMdm1FVm81QnduRkE2THR3eXREcnBIX0F1ZUIwRHNVTVRnV2pGTlFEdnJ2Y2kxVzBCU25OT2N6T0dDeG5RYmVpMjZDdkV6ZjBjcTlIWm1xazRYUlpScXdOclJFcUdpTFFHcDZ0TzVidDFEeU5Sa1VvMkctLVczbw?oc=5",
+      "date": "2024-06-06T07:00:00+00:00",
+      "source": "GLOW.GR",
+      "category": "greece"
     },
     {
       "id": "5ba214b1b0e48965389241e9",
       "title": "Chronomat Giannis Antetokounmpo: Τα νέα της Breitling φωνάζουν «Greek Freak» - Andro",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84bW10UVRSREtmQ1dIbU4zWnJFMnU3U2VvVFdITjE3QWZSSl9QOGREVk5oOXJXc0lXX3QtZUNPcUtPTkE5OEpVTDlRVkFqQWRtWlhCZnE2SGtPU1F6SzNuQ0pzdFpvamprRTJacnhYZkdGMllzZ3BpTg?oc=5",
       "date": "2024-06-05T07:00:00+00:00",
-      "source": "Andro"
-    },
-    {
-      "id": "a5f9dc7e45acef5ad1ad0b27",
-      "title": "Ο Γιάννης Αντετοκούνμπο μόλις απέκτησε τη δική του συλλογή ρολογιών - Oneman.gr",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUZNQXhfMXVKV3k4MG1GNFVjc0xxNHJzUExZcGdOZE5NRXcxNlNETXl4bnQta0tpODdOUHBNZ0FOTjdkbW1jSi1ySDhRVmNyQWRueGVlVzZkTEVGSTFGcWE4ZTcwM2pud3IzOHV4RGJmUDEyYUV3OXdDZkNKaEhsQ29LdFpNOFdnSHBNRmpiT05FenZEMncwZmM3TjTSAaQBQVVfeXFMTV81UmZoYWV5cEc0ZGdrNDNUZU9DN0J0dHpkaWg2VTE5bjVsNktjcS01dGRwcnNWcFl0eHV0WWFmMzc1dDE3UXB0SXJEX0ZKOWc2VTJVZ0R5cl9PMm1sM0h0NmlRZndmUzlLZ21DYjZTRWV6LUlpSU5zeEh5QU5wOGFkMmpvOTNldlpBNzNLYlc1RlluY0RodWNZaE1rbFd4akpHdHQ?oc=5",
-      "date": "2024-06-05T07:00:00+00:00",
-      "source": "Oneman.gr"
-    },
-    {
-      "id": "d85d0cc66dc9ed233d89ed19",
-      "title": "ISS Vanguard - Unboxing & Impressions by Epitrapaizoume.gr - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLNkFhU3gxeGlPZ01QNkg3ZWM2eWpKVjBmUXdJVGRwOXR4RF9FSG5DankzVGRSdzEyWWx2SGVWTVBTb3FHU0xqQnU0RVpYbVRYVkpKUXlB?oc=5",
-      "date": "2024-06-04T04:00:30+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "9991cd89cd5552c8c5038451",
-      "title": "Axe Greece. . Η νέα σειρά ΑΧΕ FINE FRAGRANCE COLLECTION ήρθε για να αλλάξει όσα ήξερες…🐐 Βρες τον G.O.A.T. εαυτό σου και μύρισε κορυφαία, όπως ένα premium άρωμα! 😉 #AXE #FindTheGOAT - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdjR6eXZtNjBDZjNaLS1iS1NUQm84RmctU3VKazhkWng1bHZENTNHTjQzbjFpRGFZM05EU1RSWFhySURyX2poa0J2YjVyVllDZEVpQkRhd3NaOTdMSmR3bkxRdGMwcm5uRzEwVm9PTmE1VVJBUXJiaGVYWDIzSzRNSVVMLUtXQWk4c1E5R19LcTJpS3pQM3lONzNyTTNqWHUyM2w3eUdYWElaTUFWWkJLUzdkN2NRU0JockNqYWpNb0VJTWJwOVBYOTlWRlItcGRMeXNqaXZrT0dpZXVZOS1HaUNmaw?oc=5",
-      "date": "2024-05-30T07:00:00+00:00",
-      "source": "Facebook"
+      "source": "Andro",
+      "category": "greece"
     },
     {
       "id": "1572f11a9fe465757790a1e0",
       "title": "Τα ελληνικά χρώματα της συλλεκτικής έκδοσης Superocean της Breitling - ΤΟ ΒΗΜΑ",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekNrZWtHZUFzcFlSVEJ6OVlLUVVraW1sMkFBZ0xnbnBQYWtMWU1XcHcyUk81OGRsY0VGRk15NzlSQTBZWEdiVVVTRjBPYmRBQTgyZ05pdzFnMXlVd00zSDJYQWROQnhqUkd6TUV1OXAxRVFvbEQ2UC0talV5VDRlT21MeTExTEp6aWhuSVFlRDZxaUFFbDBuZXJyekMzTm5xQlBSWW1Hb2tpa03SAbABQVVfeXFMUEc3N1NZZEtaeWFFNlAwRnVrSDRBVEluUTdTN2JYTXpQam1MNl9fMFU3R19zaGJZMXdiNjIybUlHenlJenFCN0pyaTFhTE02M0NjdFh5Y2dzSExWb1czTUl4Ymdqbk1QbUkwQkpScVJyYWVobGFjc2s4MzViRzk2a1Jsc21GZVA1VGdfRXkwM2M4T2dZYU10c0FHZzhJVUhUYUFQQVJRRWozNkl3bkxUc0U?oc=5",
       "date": "2024-05-07T07:00:00+00:00",
-      "source": "ΤΟ ΒΗΜΑ"
+      "source": "ΤΟ ΒΗΜΑ",
+      "category": "greece"
     },
     {
       "id": "7ae989b01c268999d268d570",
       "title": "To νέο Greek limited edition ρολόι της Breitling κοσμεί τον καρπό του Σωτήρη Κοντιζά και φέρνει το ελληνικό καλοκαίρι - GLOW.GR",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdFU0d05zMlVqRHYxNWJKQmlzRHhzX1Z1Sk94UTAwQmszcGtreldZN3ZLdTJRQVRERE1rYXhoMUZKMkpMZndzX0R1eTlQMlQtbkdZdUZrUlJESmczY0p6Y0FmNkxyaW82NXBKRktMdGtoQmZ4aVN5SFc5bkZ1UXhjeTd6YXBaMUJJQ1dEOVN4d0xYdDlhcjFaS2JKMGlDOEVFU0FCeWxfN3RGLWs1aTJrcWx4RjVJODJXMzZsc29DN2JfSFFhdElNd2wxZmVnRUJMYW5VMHFR?oc=5",
       "date": "2024-04-24T07:00:00+00:00",
-      "source": "GLOW.GR"
+      "source": "GLOW.GR",
+      "category": "greece"
     },
     {
-      "id": "26f6f9ff059a891580c03e3b",
-      "title": "Panagiotis Bitados - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vZ2dOdU1tc2h1MjRzOE51RmhQa2hIVHdzWmRLaVk1NWJZdVpudjFhWEZlYnJkdnVoQVJrNzgzeUNjZUtGUnI5WGNYZUplc1pjb3lXbWozVGlSMERUNWtLbzB6OVB0NXQtcFM2OG50MA?oc=5",
-      "date": "2024-03-18T06:18:54+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "04b8e04d5ca6bad0fc695900",
-      "title": "Από Εδώ Πρέπει να Ξεκινήσει Κάθε Άντρας (10 Ρολόγια στα 1.000€) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4THdMWlp6NTB6d0lDbVZRZU14WGczOFBIY3BmMWE2cFZ6eHVIWDM2NDAzWlZTbFMwbjhsbTJ0ZGJaOEYyVFU5V01udnNfdENvVjZWak13?oc=5",
-      "date": "2024-03-08T19:30:00+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "3cd69d39878f1c1e53486c63",
-      "title": "Μην Ξοδεύεις Χιλιάδες Ευρώ για Ρολόγια (5 Επιλογές κάτω από 500€) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00WGJzYVQ0SnA4NzlFeFRtTk5aNURoUUxWNEItYUZDUkllTl9aNTdUVGU5Qm9laVpIVXVscy01bTZEYkU2a3pMTGt4TmdUNlVEWVE3djNn?oc=5",
-      "date": "2024-03-05T18:30:25+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "d6c24d4359969a69b2d698bb",
-      "title": "Πως βρίσκω ΠΑΝΤΑ τα φθηνότερα αεροπορικά εισιτήρια!✈️ - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UcFVUNF9tTUtsMl9SalV0eFhBX2dERk1jT095NXB6a0R5THVCbks0U2NKNEI2M2Z4djV3QzBKcUZGZXBjaVk3UUVIQWt1MDlfLUxfNFZn?oc=5",
-      "date": "2024-03-05T12:04:49+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "d5ab4fa2f8f4b38f37d975c5",
-      "title": "Elli Lyraraki. Artist Designer (@elli_lyraraki) · Chaniá - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYUtDZG9VNFBhRTFtdVEyZFViejJiaTlaOVBIUzFqOE9Lajlkbm5JakZQNkhBT3Ftdk1NVWZZNllub1VNVXAybGhLZVF3MHFxSGI3cVVVSmhHZw?oc=5",
-      "date": "2024-01-19T14:03:51+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "cc2c2c9f5a918782599b3fb2",
-      "title": "Πώς να κάνεις Online Check in με την Blue Star Ferries - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZcF9kVUw4eVVKSUFuRnhYdFlGbmlRTGc3SHdQdGtLdzZqS0pWVlJ1YnB2RUVHZF85X2wzb0JjYWkySmNHYjhZYzI4ZWk0VVVkamxYN21B?oc=5",
-      "date": "2023-11-24T12:45:50+00:00",
-      "source": "YouTube"
+      "id": "afc0410da2a965693fb0429c",
+      "title": "Νέο Greek limited Edition από την Breitling, με έμπνευση από το ελληνικό καλοκαίρι - Monopoli.gr",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU1pnRC1fc2E3bWFGV0pzcXliemxndW1vamVBMl8tM29NcS1oSXNnMllfNlc5MXMzSkl0dzFvWUJMVkV1UkhHT2s1TjkzNFVWSDZPdnkzNDNlQk9wYjR6RXVOME5raS0wUWVaMzQ3Y3N6a2pCVTF3dVExMThsV2wzeFdZemtnMlN0WjdsVjNNZXgwQ0ZrTk55c2RudzBmRUZuM2YzRmY2Q3o5bkdzNlNwNDhHNDNQSy03U1BxS01OLVV1QmFuSmI1VmZJZmp4ODFWaGd6ZVJsZWZuQ08weEZkSVg3TW9lOFE?oc=5",
+      "date": "2024-04-24T07:00:00+00:00",
+      "source": "Monopoli.gr",
+      "category": "greece"
     },
     {
       "id": "dfb3188de6eaf837c97cc16e",
       "title": "H Vogue Greece αποκλειστικά στο party της Breitling με την Charlize Theron - Vogue.gr",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlhzeHdrdU5QTmtETFlyeFBoR2NVeFhLaVhnRUN0ejU0UXlheUVhTjYxMUx6WXlyTWthSVJzV2RSamRERk5LVExUUmpfNUtBVmxaUzFYTWFRNzJvX1haY1lENkdfX0FiejF4RHBaTldaVnZ6WnVTNEZ5d0xoTVZsVVF6STZfSkc5UkF1dWRsUW9mWmFra3N6YnBmYjJ4UG91MXc?oc=5",
       "date": "2023-09-14T07:00:00+00:00",
-      "source": "Vogue.gr"
+      "source": "Vogue.gr",
+      "category": "greece"
     },
     {
-      "id": "5ce561e2e90f0ceedb354d39",
-      "title": "Ο θαλασσοπόρος, Ανάγνωση του ποιήματος, ΓΛΩΣΣΑ ΣΤ΄ ΔΗΜΟΤΙΚΟΥ, Ταξίδια, τόποι, μεταφορικά μέσα - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tZWNrQTcwamg5TG5IR184a3Y4NGRnTFZ4eUNzdTluQjhQc1M5emhMVXY4WmJGekhxNFdkSGlnRXZnTVF1NGw5WkZQYnk5bWZIMVhsbw?oc=5",
-      "date": "2023-09-10T16:00:10+00:00",
-      "source": "YouTube"
+      "id": "877d20e2a97f6208b86c582b",
+      "title": "H Breitling παρουσίασε τα νέα Top Time Deus και Top Time Triumph - NewsAuto.gr",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGxzSF9tRGxpUmxtclBEN05SRmlIaFhKV1Y0OGVVQzc1MTJoNmdmTk9xMEpJdDR5MUFZX3p2U2x0RlZyY0F5NVl1UHkwdjRoaDkxelZ4WlVCT0ZhWHVJMEZzQnpTYkxZUTU0WHpVVmdnbXNhS0JsSUg4RmhuZ3VCWXJkMHhjUk5id2VQRFduRTdJcmdiSC13?oc=5",
+      "date": "2023-06-23T07:00:00+00:00",
+      "source": "NewsAuto.gr",
+      "category": "international"
     },
     {
-      "id": "a5ac21910bfd13798fe62ce0",
-      "title": "Είναι φιάσκο το Moonswatch από Swatch και Omega; - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDNUM3FtdUpKNUJENF9DanQ3YjVkUGgxazk3NUtrLVFIdGd4Q3FZVnJ6enY5cm9QbnpMRHNNTS1SMzE4WklFR25qZnpxR1FYb1R6aGcxZFZRV2RtaXdNQnRLSWozY044akJ2Q0VqdW05cTVaMW9adXQ0YXhBempuRkwwekZTRkhGSkxpQThyTGowTjdfRWtPbk0zS1YzNzZ3VnQzUg?oc=5",
-      "date": "2023-07-05T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "e6efacaec629320141a71da8",
-      "title": "Christos Chatziioannou - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LV1RuRmEzU2tIWHJXc0M4a2o1bTV6Mmd4WnZkME5NNXd5ZjBIZGk0R0s1QW5tTVBQU3N3d0JMUEV3QkM1T1h5TWdFNHYtNEZaaGVrNFB4V2JYZURDUUdoY1B6Y2p0SzhQZHJIRnA4bERaRUd5?oc=5",
-      "date": "2023-06-19T03:34:48+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "9751fb7e2e6e4a925068b517",
-      "title": "Α.Σ. Ταεκβοντο Φθιωτικο Αδαμαστο Πνευμα - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPWDVjcXVhdzIxdER2OWxERkJzRmtfcmRzYlRoYmt5Vno3ajFTVjdmREhDX3J4X2lXODhTa3ZPQ2MzQlZEai0zVFNiaXVQTEhrcmt0dklidXZYX1dlVWVUVl9yT3VaVHBSX1RvOC1IRFFMQzh5UjhsdERGZGJmTTF3Y0JwNEIwR2JDeXRLRDlWNWZhakpaeXViTnczMXhnb0FlWTVyMGp6Y0kyVWpYcUk3czh4Z1I4bGxhWEdhb2ZiX3YtX25JVXBUUi1KVG5aRWM0U0c1V3N6dmJXZXBjcGQxVEdrU2l5X3Q5bW1tOG5BbktHNG1oVjVSZ1U0cE5rS1dBR29CSkpweWVETHY2OXRiSTZJRDI5dFVZVExkNE14OGRpcGxPT05kUzlSNDVwUnJzdkpjNUg3X1h1VzAxUzJuYXQwTVNWUkFFc3NzbVZlN3VWaW9kZHpMLUl3R21sM3M5M0NiSA?oc=5",
-      "date": "2023-06-07T13:27:08+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "3d42868d5dd8ac43fb1fcff6",
-      "title": "Sakis Rouvas the Greek God - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HUzRoVUFsZ2tRTW95UjZwTmNXaVFaSmNsU0Zjek5Oa2FIWTVYc1hvU1FIaXo4aW1KME9yZGx1RzVHNjM4MDBKaFhIdzdYTUJRZld0dFhVMngwNUMzMVNrMVJ2SnBidVNRQkl5WUVia3Y1NG53YjlqTzhB?oc=5",
-      "date": "2023-06-04T20:17:48+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "4f37783c5849cfc50f3804f9",
-      "title": "Konstantinos A. Markantonis Co. Jewellery - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3c5UXQwUGFrZ3ZOM2g5aHVRWHZxYkllUFQ0ZjlCTUh4eTNENWkwX3NYM09oMVg1LUpiOWJ5ZFM3NmYtSDloSlFIZHVrOVNfVVFmOGk2c3YxbTVHdWxEbjdDVjlZUDNMZmpMTGRpcHBsSjFSNDJzVW9fT0J6VXdBczhUS2R3NGh5ajFz?oc=5",
-      "date": "2023-05-26T22:53:10+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "4a5f3456fd82f85a17f5a954",
-      "title": "Τζαβάρας Ωρολογοποιείον - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTNaRUo1WGZLbnEzRER6eWt0ZDM1RlJndDRteEpWclpUVnlnMW5UWXZDNloxaDNENGp5TE52SVRUWlpPZzExQldCQjVXYXFxQ1RiZlVyTy1hSjgzVUQ2ZExwQ2Z1bWlMcFhXVko0a1dkdE91V2RkY0ZsREpwaGkwYkxJblJkdVVoemNEWWt6MGtPY2RyTExUakVvd094RjVSRzdSdVhiLVV2TVhNWGR2VWl6UnBxYU5LdzVBSWN2T2lRV0ZHQ2V3c05UWWIwUVFMZFhRckdoWHRWSDBfWEUtTUp6WnhsOWt6QjNlSXBSTDltdjNFbUFiSUVMRTkza1dwNFpoNVF0d3M?oc=5",
-      "date": "2023-05-23T17:19:59+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "33959faa4c666f57e280850e",
-      "title": "Τα καλύτερα 15 αντρικά ρολόγια έως 100€ - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkcU1KR0ZTeTQyQVNIYVVtU1doSFFPSFdSQVJ6UXNwOHpPRFlCMVlvZ3Q0OXdDVkllbjUxZGZFZF9NaC1Oa3lTV3pCLWF3TVZEQkNVVTZB?oc=5",
-      "date": "2023-05-10T13:22:46+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "a09268c122dda660530d5991",
-      "title": "[συμβουλή] Η Pagani Design είναι μια αξιοπρεπής μάρκα ρολογιών; - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczJ0ODZEbExoSnpRRFRoVnMwT2FicXlNRm9PVzVQNnhGLTZrWVBSLVA2VllKZm1VYkY0dFRZNHZzSEd2SUhTZURpOG9tMEZ0MzV1S2NQZzZpUWhwMnNsRDlYN096ZnJpaWV5XzVrUHdFN0QyNF9zbzFwZllrQmtkb1FTSWJOQ1JhQ21Ic1BXalpiR1pKZ0Vsc0ZXTFRVOHJKbm1r?oc=5",
-      "date": "2023-04-07T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "3591edd64035a00bd1eae269",
-      "title": "The Sweet Project Greece (@the_sweet_project__greece) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54MThxUl9CQ3FwbFl2MDV0TFRfNE5NYVNfQ2prSWVwNjdOVVI1Si0zUHVLZUlHcHQwUUtCRFVqSF91QnR1cFJCU19WZDJNZTgwZnExaURmUWtxQm1Pd1ZGeU1R?oc=5",
-      "date": "2023-04-04T09:45:50+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "ec0c957c225b81d792b78ba2",
-      "title": "THE HAIR HUB (@thehairhub.gr) · Peristérion - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zcXdmejdpRDRkY2ZjWnJFc3ZCc3hPQTZ6bGJlNjk5b0Z5MHRLdERVSUsyR1VSS01QZWV6ZFJpUHRZSUFYMXJaMHhpS3k3eEx3SVE?oc=5",
-      "date": "2023-02-17T00:41:14+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "a88cee15d0e9718665b786b4",
-      "title": "Rubini - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISzVPamdMMFJvRnlTb05JZEFQTHFJbEROeXAtMU9wVHFRd3ZEaXB2ZFhKeWNISlZ5MDJVU0RiOE9fLXJ3TlQ1RVJabTdhS256TkI1Tlg2QnRWeWNZRXp5VGVn?oc=5",
-      "date": "2023-02-08T14:13:25+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "1b1826fc6bc71223a6487b7f",
-      "title": "Κοιτούσα Rolex Super Clones. Ποιες ιστοσελίδες είναι αληθινές; - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnItbGo1TEg0TWtFYVhidmlMNWZUdmF5N1YxekRpMUFNUWstOG4zQjVxaWZFbDh4QkZnVWRUa1ZNNGRUTi15bWN4R01ZbGVLSWFURXRkUndST0JJV19fS3pSOGFMaHl3YzI5RS1UbU94OThvcDQ4eEVsMmMwbDdnZGZMUzJiVlBnRjNTY1h2TmlaMHlLS19MVlRKUEEyTVhZSldJeF9R?oc=5",
-      "date": "2023-02-03T08:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "1db12c07fbabec30514a7f96",
-      "title": "Silver Mist - Pandora Volos - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mbElmTGdGQkZBTlZQdlJqY2NnOHV3UTlkV1dFVUpyMlpKel9NQTFwN0dOejZDenVnRDdGMXg2VHE5V1dUcmlub09saFlidGlIYm5ldTJlMVRzSFVtVS1scA?oc=5",
-      "date": "2023-02-01T03:13:10+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "3777f3ea3c37b7362b2e2a15",
-      "title": "ORO e ORA PRINTEZIS - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XTTZIWThCcEhsbC1vWm12bWVUd09uWU9jVmFDZ1dmdk5fS255M1psYlRFbS16clFHamNpc280TU5FMnVaRWF2aVFKdkMtZWNpa1N2RGtma2lFcElR?oc=5",
-      "date": "2023-01-10T17:12:43+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "d98fecd228aad6b401c17ef3",
-      "title": "Monaco Collect - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBcGt4YlZsRDFJQjlsZUM1Rk9VYllmTURVSXBZSWFJay1sTkhoZXN3WEtuaUxxN0g3TEF0N0MtcTZwamRiSVF2U1hpTjI3bWZr?oc=5",
-      "date": "2023-01-06T01:44:01+00:00",
-      "source": "Facebook"
+      "id": "20595689c7ded06e6a0251b5",
+      "title": "Η Breitling υποδέχτηκε την Kooreloo σε ένα καλοκαιρινόparty στην καρδιά της Αθήνας. - downtown.gr",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1JHcjk3eUZlZ09FMmI0MVI2Q2g2MEcwOFZCY3czdVE0eXpzZGNoRnJCYV9jUTc4c0hVYU5iWkRSWk1GZkhoZ2ZaQWppVEJNZkpLaF9MWkZkV1pfTjFyMlAyQTRnSF9GM2J1Um9aS3BTcXM0X3lWZWxqZUlkOUd0Vmc1T0gtU01wU1R4anpkLVF2SlE5SDk3YzlaQW52LW52VHdSbmE5Tm4?oc=5",
+      "date": "2023-06-12T07:00:00+00:00",
+      "source": "downtown.gr",
+      "category": "greece"
     },
     {
       "id": "d8df540edff8ec040c806716",
       "title": "Μια γιορτινή επίσκεψη στη Breitling boutique: ποιο ρολόι επιλέγουμε για κάθε στυλ - andro.gr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11R1dFb1EwUWFBeVZzTmVpQVlxTnRyeWJEbFgwdGY2RDd0aThsTTlOVVhMb1lBUUIzbjFpYmY2VGZzR0dZVm9hVjRja1JKZ1kyWUlUNFdZUlAwYkU2dWx3QUl4dWs?oc=5",
       "date": "2022-12-09T08:00:00+00:00",
-      "source": "andro.gr"
+      "source": "andro.gr",
+      "category": "international"
     },
     {
-      "id": "2a90303288a1f3326cad8666",
-      "title": "O Álvaro Morte θέλει να αντέξει στον χρόνο: Ο δημοφιλής ισπανός ηθοποιός αφήνει πίσω του τον El Profesor του La Casa de Papel, απολαμβάνει να δημιουργεί από μόνος του και (δε) βλέπει την ώρα για το επόμενο βήμα. Τη συνέντευξη βρίσκεις στο φθινοπωριν - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rYXlWVGZTNkVadTdubmZVWHFiWklhTW1ZZGppRFphMU92WXRSbkRDWndpMVBwVFhlb3pvZXpsWVZsa2ptN1F1STY5eDAyeGxrTVE?oc=5",
-      "date": "2022-10-04T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "4f6f7f8fdd310dc2116ab592",
-      "title": "O Álvaro Morte θέλει να αντέξει στον χρόνο - Esquire Greece",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXNSWTB1SVBidWFIRWtrWWRxZVZtQ042VUxqMzd5TVhhd1JfSzBGbnBEWlBycXFGZ1lJd1puLXN0XzZfb2FZM2NXazlhSm13dGpQRXB5YXVReTlqS2xIblRYRDJzYVU3WjRuenBHc3otd01sUXA1NkhlMnVrVE0xN3FXWUZMY3FjM2xOWE9oNA?oc=5",
-      "date": "2022-10-03T07:00:00+00:00",
-      "source": "Esquire Greece"
-    },
-    {
-      "id": "1bc4e0247f8d2fa4ba67ead7",
-      "title": "Lisandros Vagenas - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzQlM3U3ZNbk9mOWM4bU9GemZMTk9xOU5ZLUxndGVDTWZYWkVlV20tTlVLSGgtV0hhS2RQaGRrYnJ3R1pVaXphd0N0U0twbWxzVGx3ek5B?oc=5",
-      "date": "2022-09-24T11:41:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "77f82cd3d87a2f6d8423eaf4",
-      "title": "Smart Watch Repairs - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JeklXYXhWQS1MTDBrMHhyTFF6dnJNalJlSFVCUzhUVGJmdjhmeGNqLXdLQjRCWm5vVHg0eXgzVVpZR2YyMHEzUGFkRjlNNGFiWDl5aWo5Mnp0SHA1?oc=5",
-      "date": "2022-08-07T03:53:58+00:00",
-      "source": "Facebook"
+      "id": "cc3b6c9b6490da03011cf644",
+      "title": "Ελληνική έκδοση Breitling Superocean Heritage στον καρπό του Σωτήρη Κοντιζά - Kathimerini",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWZfTDJEa2IwNUhLUTMzUHV2RHpZNTNfcjNGaU1WdmxHdVRWdzJtOG44RWRGcU9TTXBIU2VoLVR6ZEpFcEkxTXVad3ZLelVkSk1NYjF5Ri0tanYtWDhGWUw2bnBCeDZjRVFJbXNPR3hkcllkMUhKMjVEa2EwLUpsOGtOUEx6UlJ2R2g4Ym9SZ1VmWVU5OEo1QlpUWlZCUnBnNm56QnFMOE1ueWQ0VzI0SjhWUUsxX1A4Ti1jZU5ONHM5Ymt3azBv?oc=5",
+      "date": "2022-07-22T07:00:00+00:00",
+      "source": "Kathimerini",
+      "category": "greece"
     },
     {
       "id": "50d2881eea4b239e0dccd101",
       "title": "Superocean Heritage B20 Automatic 44: η ελληνική «καρδιά» της Breitling - Andro",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0p5RWthLVFZZlF1b3VsZkFzMGR3ejF1b1VwOEd3TTRWa3B3MGJ0SDI5a1J5ZkQ4aUYyXzlGSHVKd0tjOVFJX2xuQ1dzYndkMFktY21xR3NZdVhDX00wOG9tblBleTFHdmx6RDZrN0FReXctZWFab3hfMFRJQm1KRW1nTHB1TkpoSmlVdVpUV0RWdUpEOVZieWNOY2lxT213c1RscmpxT0RKWDQzME1RZEV2OGk?oc=5",
       "date": "2022-07-15T07:00:00+00:00",
-      "source": "Andro"
-    },
-    {
-      "id": "f34217f620d97bb016bef9e9",
-      "title": "Η εικαστική ματιά του Γιάννη Βαλυράκη @john_valyrakis στα ελληνικά καλοκαίρια Ο ζωγράφος Γιάννης Βαλυράκης αντλεί έμπνευση από την καθημερινότητα των ανθρώπων, τις σχέσεις και την ανθρώπινη σύνδεση, δημιουργώντας ιστορίες και αφηγήματα που π - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5acHllTnhMNE1DcWNzQm5DaW1wUnA0QmtkQ0VHcjk1Vm1uZWEwWEZiVUpyRElVN3VGV01SU3hCN1A4a1VGVnpoRzBlVlVWOGM4S2c?oc=5",
-      "date": "2022-07-06T07:00:00+00:00",
-      "source": "Instagram"
+      "source": "Andro",
+      "category": "greece"
     },
     {
       "id": "c29f742ab899376d33fa0375",
       "title": "Η Breitling φέρνει στην επιφάνεια ένα ιστορικό καταδυτικό ρολόι - insider.gr",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFlpOWhEbVFWeTE1NmExNHFFb3dUV2xrZkY0UVBBS0tyeFh6bThyT3R0Q2VnMDN4dmhXMVh3T0RNZzYzUDRlaUdwRW0xZlY4RUdGQ0NJdXRrVThSX3pIYWxpNk9DdnlhbWNvZnZkN3hfUXIzaUIxNFpqcDU4N19xWkFRN00zd2FuN1RORmpRdVl2dG5Xb1ZldW5weWl1aUdEU2ltRVN3MkVmNjhGZi0weXFaa1p2SmgxNjVrQg?oc=5",
       "date": "2022-06-30T07:00:00+00:00",
-      "source": "insider.gr"
-    },
-    {
-      "id": "77f972d8f6612640a16aa957",
-      "title": "[chrono24] αγορά από Chrono24, ποια η εμπειρία σας. - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDBrUk8wa2pUX29hX0xrT0xjSVFZaTlHZGxGNGF6dUZxYlZ4MkhQM0lneWhaYWhFYV82RUFVTWVzazFWeUQwa0ZDaGZGUFNIN2tzenZoQ0hhV3djTkpxYXFZNzNUQXhZZWFndUFPZ1BMRTY0NnlBcnViNFlnOWxCWmR1a0RIaE5XT2pETkxsQWYzeDFtS21CWkJLcWI?oc=5",
-      "date": "2022-06-29T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "427901c7068b2563296df975",
-      "title": "Horizonica Οικονομικό Ρολόι (@oikonomikoroloivaptisi) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55TDM0V1RpelY0XzVTTGM3SDJ4SnNYZ1luSGt1WEVMaFRUTV8td0ZLcDNXN2lwbnpPSE9YeU1aanZydWdLXzl5NVRmYkdWYmtSOFZtelZnMlloQkJY?oc=5",
-      "date": "2022-06-13T04:50:21+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "7f3090384940830017d6e31d",
-      "title": "No.1 Imperial Majesty: Γιατί το πιο ακριβό ανδρικό άρωμα στον κόσμο κοστίζει 400.000 ευρώ - Insider.gr",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWc0SWF5MzA2djdoMlpaQmlyMDgyZjJPQU1uTG1yOGVkTUhtYTgyRzNiUVhNX0lTenhKR2p4U0FkOWoyWDR1ejVWeTJOYUZzcWt3WUh4NmRnVGRPeTR2VTJKU2t1SzdkdHVGWFNqeklpa1ZseHVxREozM292MWRCak8zTjR2OVBMOWRPT3Y1VjhFR3REeXdlZmhKaGxfMjlfYnBqYzlvWm5valdNNHhINVBzUWZmN2JI?oc=5",
-      "date": "2022-06-05T05:46:58+00:00",
-      "source": "Insider.gr"
-    },
-    {
-      "id": "c1d4e10d336e9a9b1ef492b8",
-      "title": "Το πρώτο ελβετικό ρολόι που πήγε στο διάστημα αποκτά διάδοχο 60 χρόνια μετά - Insider.gr",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHNtcXZNX093SUl3ZFc1QURiYnZIeWFhNmFYQzhDb0M5Si15T3ZwOW1adTBpZWNvbWZoRmE3WDcxTFlDLWNKa3F4OFJXbUV0WHU3VUxrNXpDOEFNLW9sOUlmV0tzRll2OTNUblRtVWpVeWo1NWM1QURET0hMd3h1RFBfaFlSazQ2VUlLZkZLU21uWExscWN3c2MwYVBPMHAxci1yRTI0VDM2Y0M5aVdfOWp0bjNzQQ?oc=5",
-      "date": "2022-05-26T07:00:00+00:00",
-      "source": "Insider.gr"
+      "source": "insider.gr",
+      "category": "international"
     },
     {
       "id": "d559bc13329fcd622c466255",
       "title": "Ο Κίμων Φραγκάκης στη Breitling boutique: ένα Andro video για λάτρεις των ρολογιών - www.andro.gr",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kQ3VBNFJFOUxYRlkxTmt6LTRXQVRPYVZwZXJNOE9lZW5uM3UzNEcySmY2c0Itcm9YcXM5U1k2Z3doajdhNUNNUHhTLUxzaWZCU3N2c3VGTEFmOWJ2X3ZFWW82SHYxeW5uYjNiR1BScnN5OGM?oc=5",
       "date": "2022-05-24T10:20:12+00:00",
-      "source": "www.andro.gr"
+      "source": "www.andro.gr",
+      "category": "international"
     },
     {
       "id": "90a9acacdab4b400a1fd9213",
       "title": "Ο Κίμων Φραγκάκης στη Breitling boutique - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRXBMR0VjcjBkd0JuWVN0Tm9xeVdwOGtfbTl2QjBnRXZlWFNtRC1EeEpvN2xoR2w3SHdIcFphSTlvNC1pUXduWU1kYjhJU1hIam1wa2VR?oc=5",
       "date": "2022-05-24T09:34:46+00:00",
-      "source": "YouTube"
+      "source": "YouTube",
+      "category": "international"
     },
     {
       "id": "2dc867bc0fb7d80d65646fb8",
       "title": "Κάθε λεπτό που περνάει είναι και μια ευκαιρία να ζήσεις κάτι νέο, κάτι συναρπαστικό. Breitling #breitling #squadonamission #breitlingxsakis #sakisrouvas #love #time #watch #launch #navitimer #forthejourney - Facebook",
       "link": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQeDlqM3I1NnBzZWU4djgyalRMeXhKM29vTTVpNlZublR2aG5EWElvNC1NVVhneW9TQ3FldWVza0R4UldVaEpEUGRfWEVZLUgxUTFTMWxHU1RJb09nV3NJdW1FNWlnakhxM0ptMlFENWFFOU5oeHRBSHVISkstWDFhS29rWFVodWdwWVhCYTJBcjR6RTk1SFNvT2ViM2JBNzRSSHBWMW80VzdCYTVoM3pRUVBzTWctVVpLd0lGTlZIeEY3YXdqNGVORkEzTnh6RlVPQ3NFVkF4Y1BPek95elVQeDJGQzMyeWs0aU9EblhwU0VOWjBPQlhuUWJTcnM5TDZuUVVZZ1c0TVMtbkFsZTRaa2RXOTVodFNtYmJBRDA3ekdONzlNb2FjR3JPZS1hV3pTQXpsNmtPbTlieGJPMnNhSTFJT18weG9rUG9XZ1Jycm5Na3JleWlNUWNnQVJIY3kxLXkxcVVyWTlReTBBRFM0T1ZGaUJBVzR0ZDFjVnlITExOLUdyeGhFOVpQdUZBZE52QU42TWRZWmVGdW9JSXlOeno0cTdLLUlGd0dUbEdFS3N5b0lTNDFJT21kMXlBd2ZZdGpCMHJTVFFkYW1HR1FRdHZjQmx0bGZMVWZObjBFTkRjaXZoajRZTXZVNEtHV0RXcG9HUkE1QTNsTFJKRmtSQzc5Vl9acUo2VndsZUVvM0tmMEZsT1c4Z21wdnVZR1FYX09ldFlKcm1DVHc0TUljUm1MZmppMDZKTGpIOEp0UHB0cWEtUy1xTlRJQVpiWllKU3BYQXM3YkhwTThPcWl2RW5FWnUzdTU3eVpveDZXNUQxYjM4UjZxeFV0X1lDR1o5R3o1ZHg3ampSVUptTGNsZERfeUxOQzZsYjFWZ2JfSDQ?oc=5",
       "date": "2022-04-27T07:00:00+00:00",
-      "source": "Facebook"
+      "source": "Facebook",
+      "category": "international"
     },
     {
       "id": "e57a1069cb5795451ca52bef",
       "title": "Η Breitling γιορτάζει τα 70 χρόνια του Navitimer με μια νέα σειρά ρολογιών - Insider.gr",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGNZbDhMMkJlU0llVDlPTGFJUzZRUHJrWElaZkgyMDNUc3ZEdFVGS0VLbVc2SjYxaUtwNlZwR2YyQmpKemI1M0ZudU56ZXlMdEdieGwxVUhBOGY5N3VqMXFEa1pmN1lCc3UwNE14cEFFNEZWQ1RIOG8tREZJRVh0dE9sSmZXU2E3VHlRZWZ6TU1jckJwVWV1aEd3ZTA2YWhwbEtOLTB4a2E1eDBIYkE0SVJpbWs5Y2xibFdSTlF3?oc=5",
       "date": "2022-03-31T07:00:00+00:00",
-      "source": "Insider.gr"
+      "source": "Insider.gr",
+      "category": "international"
     },
     {
       "id": "6deafbb86df316379698c0db",
       "title": "Μοτοσικλέτα Triumph και χρονογράφος Breitling στo πακέτο της χρονιάς - Insider.gr",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmN0cWEycDB0cjBxN09UUU5IRWIza3JRSTJrcDF5WEFkTlgzVURMaXVjc2cxS0s2REVQbnFsV2R3ZUc2YVBMTzBqS0Q0VFZsOC04TGpGdXg2QzVyQTd6eHgzbGxYWXdSWkJlVng1eEs2dmJELXVadmtXVVRZRXJiVHlaanhpSzlDbWQydE85TGEzTWZKdTBTMjdvZjdER2NlRFpIQWZnNk5ScU1lUFlzaUI2QjFRSFdJOFNxMHp3?oc=5",
       "date": "2022-02-23T08:00:00+00:00",
-      "source": "Insider.gr"
+      "source": "Insider.gr",
+      "category": "international"
     },
     {
       "id": "99c6c044c9f70f467580c862",
       "title": "Το Superocean της Breitling είναι ένα κλασικό καταδυτικό ρολόι - Oneman.gr",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWZESHZXaGVINjM4UWRvNjZ3aV9zU3Q3YkhzOFBuckg5bUJWVnZlbjhLLS1xXzJpVkFnQVc0SzlDQ2o4ZTRpX25oaG5JSzE4UFFGRVZpbFdtaEJqSS1FMHdjYTRGYTBlam5MZzNiVEhjM24xQkV0ZWV3OHhkN0pVYlREWHNFOHpfYzFjNGZZOHRIT2FTY1HSAZ4BQVVfeXFMUEFfakhGZGlOdWFYaElGLVpPR1pfNWNlUkRfa19BbllRNTZWeFk3UDh3M2lqQWZWdXZURVo0Q1FPWG1VcHpSdmhNdHI3QXZkSlpWYThCZTR2QkJJT3pDSXdCdlRUUGlVWEJhbXFRT3lFdDBNNE00ZE1lWEhWTWtVekdSRnpkcFk2ZmJObTI5Yk1HZWg0U3p0ekxpeWRCblE?oc=5",
       "date": "2022-02-14T08:00:00+00:00",
-      "source": "Oneman.gr"
-    },
-    {
-      "id": "2c7e8ac1606d5ed7cd22cefc",
-      "title": "Panagiotis Bitados (@bitados__gg) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14RDV3WFZnemRBU1Zvam05Q2RvRFdjYk5MZmJ5VzNsdl94eGZhc19LMUo1T2hKcTdxY3h3MDFOdFZqRFlYc3ZjejJ4WnRfM2c?oc=5",
-      "date": "2022-02-11T18:45:23+00:00",
-      "source": "Instagram"
+      "source": "Oneman.gr",
+      "category": "international"
     },
     {
       "id": "c5cefd023e984a826d5f07d9",
       "title": "Όλοι κρύβουμε έναν πιλότο μέσα μας... Breitling #SuperAviChronograph #breitling #squadonamission #sakisxbreitling - Facebook",
       "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNblRwWFM2a2JqOFAtcll4YW9hVWdndG9UZmVjN3FpbmlFazN6Ni1PYVp6TlZjalVtWHFueDVLbFczZzM1Z2YzYnZmODB2OUZrQTEzZVpubEI0bnkxckJDZTYyc1UxZ1oxb21tY3JlR0k2cWxiM1BXMHRvWXc0NERObEVmSjlHUENKVTEtT2xKb3lmQ0pTN05tOVpFZEJybElTNnVHVndacWVyNE9tcndqZ1U1Y2RTWWp3RTlVTVFDaGIySXNzSFdpNUZnbW9RdVV0V18yci1vSktFQW1GcWoxRzA0by13OW4xUXJCLUdqaklxNER1akRvMHlNamExSl9TenRjNVdLeE5GdThVUTJXWGE2dUR4d1RZUVRNRUJoMDdpcjBZV0ppTXBaWFJyREw5Q291em5lRUhCN1c4LTIwd0V3aE12a21JZkRoNjJBMHREQkZKSjlaQUJ5ODRfUW9zYmpPT25NSDhoRWdncTBrSWg5ZHlaU0JMT01wT0VWb1lrdUdaeUZ6dGRXRy1fcGsxYWl6Y2Y3ekM2RnVFSExJdFg5VQ?oc=5",
       "date": "2021-12-14T08:00:00+00:00",
-      "source": "Facebook"
+      "source": "Facebook",
+      "category": "international"
     },
     {
       "id": "d329bd677a8fa3a93864859d",
       "title": "Τα νέα ρολόγια της Breitling είναι μια ωδή στα μαχητικά αεροσκάφη - Insider.gr",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckNaclRCZkxYNFhDclNrUmRBQmJJWk9ILXVFa3JtOUxrT2RjOHQ4NmFieUUxTk9OLWM5US00cGRuVkh4VUFVRnVRejRkVHBxQ1BFVVQ3cmFJVGpjNE5DQlVoMUtBeHVSUWVsMzlhVjBuNUFHTGdLOUgwdlJRTDA0RmtBcGlpbzY5Y0FfbTFoRDR3SnB6QlBQVHZnT1hVYjg0elJibWFVN1YwVXZZRnhCZmhyWkcwQQ?oc=5",
       "date": "2021-11-19T08:00:00+00:00",
-      "source": "Insider.gr"
+      "source": "Insider.gr",
+      "category": "international"
     },
     {
-      "id": "4d32c7326b92e3ae8ea96427",
-      "title": "Πώς ξεχωρίζει κανείς αν ένα ρολόι ROLEX είναι γνήσιο; - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9saDNyVHdpcWRIQ3plb3ZPT0pjM3RQbXEySWQzUm9DTW1yZXdmdGFKaktreWhsWHpxX0lENXJLcndTVnNLTml0M29GcU45Skg5OHh4T0N3?oc=5",
-      "date": "2021-10-24T06:55:05+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "70fb72020fdc63c904e43463",
-      "title": "Souris.repairwatch - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MNm9UZVdqQi1QZ19qTzJ3ZWlsREV4aGZDTTF5dml5eWZJYnBIakxoMmdzVmpaZ1dDUVFMeTJQN0h3U005Si0xbFNaQnlEQTVBMnJJUUhB?oc=5",
-      "date": "2021-07-14T02:53:17+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "7a31d0777c4caf0edbb50956",
-      "title": "Εμβαλωμένος Ωρολόγια - Κοσμήματα - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBydEkyc3FnV3BTWldTUnN6b19ZZkZoa0xFeWREbEFQTnJoeDRjSlZiNjJZY2dseGR3QjcxcDVlc09mcEFjMnB4MFNTVjFpVWozSjVJ?oc=5",
-      "date": "2021-06-26T01:18:12+00:00",
-      "source": "Facebook"
+      "id": "2cd01d3e7888a85b6e4340eb",
+      "title": "Top Time Classic Cars: Ρολόγια εμπνευσμένα από αυτοκίνητα-θρύλους (video) - NewsAuto.gr",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVdabjlhbnJiaTZLcTZkNFBycjN0aVJzMWRKSnItNjRnaURId2xnNDR5SXNBTmRCRXpDaHYxQXRFdjIwQUhBSmNwcW1CVWJuSXkzTzBWR05uTjVNdzhKM0p5d3BVVW96M1RnbzMyOFUtUXFkc0ozUUFYa1h6S1g2OTBHTTZ2Uk04OFhBNjdkNXNpV2VWQmk1OXIyQ2pDbjlyUG8w?oc=5",
+      "date": "2021-09-20T07:00:00+00:00",
+      "source": "NewsAuto.gr",
+      "category": "international"
     },
     {
       "id": "ad804b2dd9c847c0fbb95284",
       "title": "Breitling Boutique Athens (@breitling_athens_squad) - Instagram",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NXh3anBxZmszTGF5M0lyNHNrQkZOdFdtTWcxMFllcTgwNTN1Yl9WbDNHSV9YX1RhNVUxcm5KUHpaMnc5SFpuN19RSjhnbnhpN0tjYV82c2VmYllseVE?oc=5",
       "date": "2021-06-17T20:01:47+00:00",
-      "source": "Instagram"
+      "source": "Instagram",
+      "category": "greece"
     },
     {
-      "id": "d869770de4a532ec7bb58d3c",
-      "title": "Σάκης Ρουβάς - Πάρε Με Αγκαλιά (Official Music Video) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2QXNCRnJmSWFQQ0I1QXFqajFnaWN3X3hDeVRLMHBoc29Od2xHeFRsVUYzeU5nYlZRRHBUdF9VVHJsTjFvd3pFSGV1cmV0WHJETDQ1R3Vn?oc=5",
-      "date": "2021-06-02T15:00:09+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "7851b0dec172d33f74c992e4",
-      "title": "The-Watchmaker STORE (@watchmakerstore) · Thessaloníki - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oRmhNYkotN1l2SmFnVEYxQk5PVDk2b0w5azdxU0tRTmVaRjdsd1hiaHlBZUhJRzVabTdnaXlDbUg3SHFQelpwd2tfZEpuR3psSmdJQg?oc=5",
-      "date": "2021-05-24T22:05:43+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "78b5b53e7b7889cdf63a6aab",
-      "title": "Τοποθέτηση Φοσφωριζον σε ρολόι - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVQVNMQU1YYzNMb3dNMjJrQXhOQ25ONThfSWcxSFZ2NzFYRkJCa2EweEJ4bkRPYkNuazFFUm00VjZ2VDBZd3QwblRwNWs1RkRhVDhhT1FB?oc=5",
-      "date": "2021-03-30T20:25:32+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "04bcf272d4c53089f8f233ff",
-      "title": "watchmakers.gr - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yOWFlWm5hOXA3RTZEMGRVUG1iaGptU25SeGtFa3ltQlltbkY2VnFNMV9nbFdhbHVaVV9XUGlNNHN1QmtDX0FJOEN2Y2w2MXg5cmhz?oc=5",
-      "date": "2021-02-28T07:32:14+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "d1f27cb8a789a7e2ddc2dbcc",
-      "title": "Giannis Antetokounmpo (@giannis_an34) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11bGJvbGpweEJNVnZYaVBjUTktbU1lTlF5NXpMbGRwcFZkaTY4Vk1XVG10SXVrNTZneEtvMDAwbjZhZzhYTVBiMlYtVWNIVUhoSXNLR3duTnY?oc=5",
-      "date": "2020-11-22T03:32:33+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "49030727995bd82bb4b2d855",
-      "title": "Christos Imanoglou Jewellery - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fWVdmd0taUzZHQlJtYVlTNi1xWXhjUlJuOGF1bV9mOERRTE9RTEhvaWk0OGNLX2ZfN2FkY2RvM3hsZEZCdU9GZ2pFcl9VbGhYM1I1RVgwekN2aW9nTDRVd1RB?oc=5",
-      "date": "2020-08-24T11:12:25+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "001940fdc263bd5493462e27",
-      "title": "craftiusPRO - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqVWFHTlQ1QmFLYnJGQzNWUkVpbFhPYl82RldtQlBSS1NYTy10TXdFZk5VbGtiVG9Nam44WlB3RHdZUkp6QmFkNVNlaVg4UQ?oc=5",
-      "date": "2020-07-22T01:30:46+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "b757fa51d56f935cd481b5c0",
-      "title": "Στο ξενοδοχείο για τον κορωνοϊό στο Ρέθυμνο ένας τουρίστας που εντοπίστηκε θετικός - Μεταφέρεται μαζί με την σύντροφο του για να συνεχίσουν τις διακοπές τους Ένας τουρίστας που έχει φτάσει για διακοπές το βράδυ του Σαββάτου στο Ρέθυμνο βρέθηκε - στ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMipgVBVV95cUxNYjNXUG50bWdDZTdZdHdONi14SzFJQXRsM0lodUoyMjM3TXBad2xsWlNESXNzdmY0TXV2Zm96VmN2MG9RMk1IT2NPNlNiZ3dDQmQwdVdydWNDb0dJOV8wTV9qalNiWlRmbk42SXpmN1V6QmN1U1BMTXA0ekFVSjFfT0NjQngyT0ZNTF9VanRnUUlvSHJZMWI0NlJNMEVtMlJCNkU0U0txTmRyZU1abl8xYklNQ1FRRG9ONTJRSlFkempjaFZ5clhOekMzSjhUcXZtNjRXZ3g0OFFiakMwUmdURlZVajlrbzIyb1hGU0hMcFZoY0J4cUoyblFOdkVsalFaSTc3Q1VNMEFUOGJKblU2c3lHTFBmNW91SHNQdDc5WmF3bXVuanZ4SnVCOVZLOGdmcV96Z1RnODRicTZLeGhDWmplNnc2T3V0VkgyODNhNjJKRGNKWS1tczVtU1ZyZkxYbUhENlRfbUotZnNDQ2NvWklTenV0UFlHRXlaVzhyUmRoMFV4NkY2UE5IcFI2RzJtR0FHZm5hTlpON015ellFTzVHZHZYYWdMUGRFNFlGMEhZbG5wRzBrTmlXNFJhR1l6djdENEFiWkZESHZWcFhOdmpWSGVrV0RKM2NYYUFfUVRtRGpWNGRfY2M3NF9TU09WbHY5bVRkMXlVYXpiTEJQMzFrXzhCWDhlZnkxX3ZOY1lVUUhfUWU2dFMyNnMwcVA1N0FDcmV4dmdURkxLOGFYemNEelpIdHFUTXFHdE5KNVZqQWdhUzhBdW4teVl0QlctU2RqbGZDa3FrMmNVN0ZyRkphVllKX3hwQS02RmxVVHhfZUlmQkRKNHZ5Y3Z2OERpZXl6WDJ5OFVUZ0s4cWhveUt3NmJ3RFpZNS1YSktOcUU1NTJxTUE?oc=5",
-      "date": "2020-07-19T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "c4fbb602253fbdba4c292dae",
-      "title": "Αλλαγή μπαταρίας με κουμπωτό καπάκι - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2dy1Fb3hJVXpJMlQ0YXY3MUJJcktRdndDbFNPcDFSRmpaSVNWS25OU1ZsclRkSTROcEhvZ0t5SG1fOU5NQkFXTU94UldBSFRjR1F1bmV3?oc=5",
-      "date": "2020-04-25T04:32:42+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "77ed5049f52d459e603408d6",
-      "title": "Βούκα restaurant - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvSXZxdGZyX2dOWHhzeTY1bWc2cExUbWlob0lYazZDYXJxU0RuV3pYR0VqWUdFZDkwclpReU9sZDlTclF0eGJaR1NlcEJIT2YwdTdXXw?oc=5",
-      "date": "2020-04-09T01:39:30+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "c0e592404b243e3ef523d591",
-      "title": "georg.petras - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lcGlkSThfSkFFb0VZRVF4S2hyRFE0UWFOR3dXMldObHZLR1BXTlcwejREZjhWeW5fSm1ZRzBYWTJ3WXlXd3M1RXFLWE1WZnAx?oc=5",
-      "date": "2020-03-03T20:08:24+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "e2592018368d63b1476fe640",
-      "title": "Valvoline Distributor - LPC Greece (@LPCSA.ValvolineDist) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HY3hfbldkbDVfMVUwNXhhZlFrVkFTVi1JbFlTVHk2eUNVT0xiVEhTaU9zcDZ2cFdZUjk0ZV9LNU0zREZBbnc1YVFnZTlFRzJ5VFRBeEV1WjE?oc=5",
-      "date": "2020-02-28T04:14:19+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "ee56eedf522a5503589da030",
-      "title": "AEGEAN Services | Preferred Seats - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVU42S0ZpNThmMVQ1VlhHeWhQWm4xWFd6LUNSOFAtMTRlMjNZS2pBQWQ5MzVvVDB5WVA2Y1Y4b1J6UUlQcHdwckJjcWdLR2FJeHQybnNn?oc=5",
-      "date": "2019-12-16T12:36:22+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "a4b238d200100d6d4d7def2f",
-      "title": "Κατσαρός Κοσμήματα-Ωρολόγια - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkUGlYQ2hYSWNzblRrS3VCelNLQ25jX0d3S2RSMzZHN2UzTkJQVVVib2ZxSzJCNDU1ZGR3VVJHa3NuWWVkNGc0bE85OGVlRmJLWk5UVWJVVQ?oc=5",
-      "date": "2019-11-30T01:28:37+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "7cac64f38fb6f533b8c95ad2",
-      "title": "BLUE REBELS THE GREEK NATIONAL 4WAY TEAM - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NOVF2cjFrZzVORjNFRnQ4azZyaDdHYUhIZ2FTWVJlTlF5MTlRcHNxdFRmM3lVRllKN181S0NUMGlDZWJJSnBqWlpjWXNGWnhFT2JVXy0zeTBSRmhr?oc=5",
-      "date": "2019-09-19T10:14:43+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "5d552ec686f62677dd6d0fb7",
-      "title": "Full Service Tissot 📍 Καραγιώργη Σερβίας 12-14, (7ος Όροφος) Σύνταγμα, 10562 Αθήνα. Web: https://watcheck.gr 📞 +30 211 4012 890 📱 +30 6996 555 348 #tissot #tissotprs516 #tissotwatch #watchrepair #watchservice #watchmania #luxurywatch #world #gr - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPOTB4U2dOajJBcG1IUmJ0TUdGNklPWG9hUFF6bFNjODhWR21XLTdqZkUydHZvTXpzRzVlY0xKNmNGdmVsY3hOd0RqMnNiWXFzNDcxc2N5YjIwUDVwUkk0S25jOGNuNzRRcFVoemtnckhnWDZJcDVIelBDMlh3aDlNU3RRbHFZdmJFb0RtOWNwUElWb3psR201czk5Y1oycGFRU0NKeHB2OHFRRVQ2Ym9JRmRvTmVELVNCZlFpOTVmX0oyVml6MHZPenZwSjVOeUtGdzRKcmgteG5HTUpybmZZMzhIVjZBejI2aXh4YjUtS0YxT2pKUklSZl9oQ3hYREk0dHQya1pwSGVLR3l3Y1RzeWVYeG5fOUlBWHVyOWZMYndPTTJDM0dMaDgyN0hZTmpxeklJTWhITmFCTTNXaFFDRmN2Wko1T0pvalJFanViODdPUmFYdmotZ1lpQ2dmNU95ZGh1VTV4OVo3MWVOTmpIOU9jVGtsSmxGZlNvb3g0a2hQRjBtODZaT0FrM2FwZlFSNUEtSnpmYXRnZDRhUnJRNzBHWHNTWW1oRFVXVS1za0x0c0NLdTFKUkpYY09NSzNXcGxCclRfSkU5ZnRpblFpNk9n?oc=5",
-      "date": "2019-09-13T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "57bc7aa897776963eb786b30",
-      "title": "Ποια είναι η καλύτερη πηγή για να αγοράσεις ρεπλίκα ρολογιών; - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREo5bWk1RW1fUll1UmxfdEZLQnpzbE5QODgwc2lFVnZXaXRZSm9RdWtidDNRSHkxeDhwU0UtampCYlZFcWt1M1kzaVhxNEZ6NnpEcnpUb3NOQTBQUnRwdk04S2lPb1NPX3oteW4yeDg5aDdmUmd1Zi1fblBHRUw1LWM1eXJhZHU2b0UzV21TeVJLMHN6YTZoU2FYMTE5clI3dWhkaw?oc=5",
-      "date": "2019-07-12T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "40cf49966967e0d4f68115d6",
-      "title": "Tips για φθηνά αεροπορικά εισιτήρια & Storytime | katerinaop22 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90b1VKTkhSU1dKc1pJbHVBdDJHaWFVZzJGdy1GQm95bzdtN1I4aEo5RGZIMG80clQxV002ZlhWUll1M2JpNGVPeDM1WEx2TVVFUkxGbFhB?oc=5",
-      "date": "2019-03-03T12:41:23+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "0a8c6a16fa3f1a8b79188169",
-      "title": "Οι «Εισβολείς» αναχωρούν για Μαδαγασκάρη! #NomadsGR #backstage #ant1tv Nomads ANT1 - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQY2Q1Q2hHdE5tbXUybERXUGk4emdEc0xZWlZEaUIxd2c0dmJidWh3dk8yMWlRVmpienNiek9KVEdSYTh2ZFNZRGYwbHFxdnVSRmtRa3lkZm1oZndTV19OUlNVQzdTQlE5UHRiNWJTX2xabUNxOE93eWRCQV9Ga3JSY0l0V3Fiek1BUTNEaWh6cWVkX3FTaE9hbUFtUzdyRDNhUVU4bTlIaHNYY3RtN3BCZFVRVkgyZnY0TEVlSkF1N2pFOFY4M2dyb18wZW4zUndRQmtGbko0dlNyMDVVNFVSZDdBZkZTcE1vVlVCalp1WExCYU12dmplQTRPR1JLNTNDU1E4QmZLc1pCT2JvUGVYRXFYT3Z1ZnhXWXgxU0RWeTY5VVh6N01uMXpPcDJ5V0lCTG9rdjJCMHVLaUg0Z0RQWlZ4c3ZiTmpZUEZJWUpMYTVzUHBfajdMZGVHb2tOVUhFakM4WGhiNWExWFA1QVp1OWUya1pNTGhKaTRkVGo2amtBUFYtU3hIZ3BFVjBsU0RpYUl4YzgwTnlnTXU4N0ctME1JQ3FxdUhrMHRaQ1pZanI?oc=5",
-      "date": "2018-11-02T07:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "a664d67915243959ce854e82",
-      "title": "ΡΟΛΟΓΙΑ - ΑΓΓΕΛΙΕΣ - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11S2R0XzRGRmRMamxqa1E0MEpWWV9TOGhnQmQ1dlR1a3NzMGtzYUVLWEY0YUJTX3JUWlVHRS1Kd1U2ZF9hVjdrOUtGdzJHTThnVFgtV0xjQUhZVlVP?oc=5",
-      "date": "2018-10-30T17:43:10+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "06f674ca460b2d54f1e904fc",
-      "title": "Πώς να κάνεις check in - How to check in for an airline - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RcnBTMFhoY050ZVd3UWZmanRmSVQ2WDZJcUZfNHRvYjE0dWZmVk44TE1GUFFCeldBMHR6NkRweUxyTlVkWGRNMFo0U2ctRWREaHRzWUNR?oc=5",
-      "date": "2018-10-12T11:00:06+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "b2631c2b18a43e7905ab4d69",
-      "title": "ΠΩΣ ΚΟΥΒΑΛΑΩ ΕΞΟΠΛΙΣΜΟ ΣΤΟ ΑΕΡΟΠΛΑΝΟ #traveltalk - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRWZvdVlIbXNCTEJESjNHbXBhQml3MmlRLTdNYTEta1hpdnFvRzdmNzdFQVdJQnB6a0tCRHNFMG1HbFVNQzB1Qm1ndXNqRWJVcFh2SHdR?oc=5",
-      "date": "2018-08-28T13:00:00+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "e06cd9846e19df72644e7885",
-      "title": "[Είδη Spring Bar] Εδώ προσπαθώ να σας δείξω διάφορα είδη spring bars που υπάρχουν. - Reddit",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODNqTUt0QjgyT0dETzc1ZURLemF4RkFlUnR2Z0hndnNtOXlBNXJPLUhJZ3EwLUdaNlctN3VNaW41dC1uZF9yeG9xUDVDVE9iWTM1ckY5akNfdUNpa2xYNG9tMnFnWjBNX0JSX0NqMjdzcjd0QjdXaXRWNExWeUxFT0tneEo4eGotRWMwYVFEc3ZITWJEWDN0MTVDR0k5dFZHbXZ6ZWhMU3c?oc=5",
-      "date": "2018-04-19T07:00:00+00:00",
-      "source": "Reddit"
-    },
-    {
-      "id": "da8241967d4a84a13ee61e63",
-      "title": "dimitra.giatrakou - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YTjNVMHRQSUtMNVFkbkJVVkhxMVhqRmJnTFJYczE5TFJtWllMMWVfQWloVzU2WGdISXdzcTIta1l6akdWa3BaUDdtSHJ5Q0VpTkd1UjlTVQ?oc=5",
-      "date": "2018-03-27T03:08:53+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "b139470d9460f1f4e01e0230",
-      "title": "Asterios Koustoudis (@asterios_koustoudis) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TnhublV2bmszTElrUi1qZzBDRkpEV0hpSWNkb3c2VUdmWFdUdDVwZmFTTlRHZWhhdVlHbUFZZjB4aTRHb3NqbkVBaUlIVGcwb2hPelVHa1BZUQ?oc=5",
-      "date": "2018-02-28T04:09:55+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "f6c588d400c2b63a94c48f19",
-      "title": "Λάμπρος Δημητρίου (@labros_dhmhtriou) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bTNocGRpcm1SUTZreFItSnVHbGRTTGRPNjlRUURoMjhZQ2lHcHowOFpUM1prQVk1cHVHUnJtMGk3UUpraGt6dE5lVjZGVHA1WW9vYzZn?oc=5",
-      "date": "2018-02-26T20:54:42+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "0ed0d57a15007f5db908c980",
-      "title": "Greece Watch Club (@greecewatchclub) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OQnY2Zy1teG9xMXVjVV9weXFsUXA3MlRUdGJqQXV6RHBKdGlEbjVMWjE4c0JsaXRvMWxWdzZWVFg1YnR6ZUR4M0ZfV3k1RVRqY0c4UQ?oc=5",
-      "date": "2018-02-22T20:31:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "43aada517028ad60991eda61",
-      "title": "Vassilis Krommidas - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDdXd1VkxLMzJlZm56RTBXc2FWNDItRmtzTnprYU9xVFNheEtkSEcyZEcyZExTSnFibTNFRE5jSzhLaU5BaWEyWjdveTh5OVc5QVRwSFJKSQ?oc=5",
-      "date": "2018-01-17T15:21:48+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "cfbdc664eb231a177f04dd49",
-      "title": "Άδειο το αεροδρόμιο Ελευθέριος Βενιζέλος - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Y3VYUkpnLTA2N2p5dXhvc2cwcG1qX2paLU5UejB4OWVhLUVNSTZMNjdlbjZhN2hTQnZkcFZBWFU3aGNpZ2x0Z1loZmM1TVV5V3dSU3VR?oc=5",
-      "date": "2018-01-15T11:46:05+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "5ee90cf9dc4c0f2a2f12262b",
-      "title": "Wenger Watches Greece (@WengerWatchesGreece) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YZXFrcFFCalgtX0hPVC1nRDFSdWxjOXVZX1dxWlk1eGh0bTZmUDdTcEFrUGJXZjZ0UVZKN3JJRUZrOXZxNERDQnd2MkZoR0cyWTNaQVJ4aFA?oc=5",
-      "date": "2017-10-04T09:23:21+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "888306e2bcb557d03a2f8e83",
-      "title": "Ο Κίμων Φραγκάκης συστήνει τον Αντώνη Βλοντάκη στο «smart casual» ντύσιμο - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBET19GSFRnTlBvNXZQRzE1WUcxR0tINUhTQzBDeTY0OVE5RmpvUHAwcVZzNjBEV2JUTUJKVFdKM09aUmlqcVhaTVZWWTlHWHFjU3F4Y1ln?oc=5",
-      "date": "2017-06-30T16:11:13+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "55b48ef2c6062d0c95b2b74f",
-      "title": "Sotiris Kontizas (@scontizas) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1POTBJLXM5RVlQSEJobVVua3lIWXNaTndrODRqQXVlZVZYS1lKWEU5RXRCY1Vndm1IdzMtTTBYWmVfSEY4bzFrTFdnVUU?oc=5",
-      "date": "2017-05-08T20:42:13+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "bb0b5516d62961c35b6d85bd",
-      "title": "D-DAME: Κατερίνα Δημητρόγλου Ph. @josephalexiadis Mua @dimitristratos Lingerie & underwear @intimissimiofficial #d_dame #dideemagazine - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sYU9sWVVheFBsd3VzaGE2WFhmbHZTT2hZVE1oUy1CZnRHYnE1aW55OXM2ZURlRU9DcXhKRDc3Y2ZtWDNnTDVwQUttWlh2aWdQLUE?oc=5",
-      "date": "2017-04-05T07:00:00+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "963a4c9cb99e83f45bde5562",
-      "title": "Rhodes Rodos Ροδος - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByZnBsVVh3ZUpBUzMyT1FEdThjRl9LYjVfWUJKV1F5bjhyY2YwMWRTOTQ1UU4xSWtkaUJFbXFVV2JpY3FnZ1daRFJiTTVqVk4tZVBSWk1rRWpKdEt5eWh3?oc=5",
-      "date": "2016-12-25T16:38:27+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "dd3ee7a9b2ef622d84fe5d10",
-      "title": "RTR Sgouros workshop - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HRVJaRHA0VTczQW8xcVVkMV9vV2NlZGVnemxzZnhCQTM2VTF3SHZOeENZdlZETzY4YWc2dWVQbmh5d1ZqZVFuQmRhLTRWQQ?oc=5",
-      "date": "2016-10-21T05:59:37+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "5033f31ae813bba4ca990d73",
-      "title": "Αγγελίες Μεταχειρισμένων Ρολογιών - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meFg1QUtQRlpRSy02bTlKY0tvVzdGOE5tTHBtQkJYQ0lUX0VhZ3NUSko3ZUY5SjBPVS1RZ01UN3RJREJMUF83X1FOd0FUTXFEOVMxRi05czI?oc=5",
-      "date": "2016-08-27T22:26:35+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "6ed7b87f7ceceaa27f458655",
-      "title": "Dimitriadis Watches (@dimitriadiswatches) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tX2thM1NaeERaN2thTUoxOHZfMi1MeGQxQ0JrVlM3YXFuNVlNZVdxVjRrTFEzV2pXTHY3aXpmZ3Z3STAxZHVSV3paLWVBNHZxOXp0OGYtQQ?oc=5",
-      "date": "2016-08-02T17:55:18+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "36d354b3757c355e13e6cd35",
-      "title": "Super Σάββατο με μοντέρνο ρολόι χειρός σε διάφορα σχέδια και χρώματα...στην πιο απίστευτη τιμή! http://goo.gl/E7fX2v - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxObFpsU3dWWGpmckprZFhUNl9JNWVLVk5NQVN3TDM5NV83NUFoQ2tnVXJiSWlpcHVtS3U0cW9pcHFQb3VnQUI2MWdQZWRvREY2dHBtQnRCZWR2SEs0QktDWEZqVU5rS2ZDZG55RklHWG5iVTFNSVZBdVdsbFNaSFJyRGE4SkU0Uy16eWItU1FsX2Z3YmlBcjFDNzlrZ0lpcnhHYUhfRWlDYUdSaFFDdEdqaFlPOC1GWDZfVDQ0QWJQUnVrcUIwLVFLOVU0M1p4MjlQUVNzRzFZR0pVbTNqb3pzRUVEWDg0c1YxZi1mZkF2WlVwUHZta2VhMDRqTFBnWDFKNzAyVjAtc1dMUzBwSzQydWR1SlctNXh0ekpxd0dQSTd2a0s0dU9pM1JfREh2dTh6blJtWWllbzdnVEJiWXg1SWh3MHpjTWh6Yk1ReGFVQ2UyUU9UeTE3eEVUR1FUelZ2MjQwZEpWMnJJTXdLcVZMbWhDWG95QlJUVVFZeUVDV0dkZ2hITjMzcnRYckE4eEFYTFZtMUh2bWlNXzl2QkV5T2FfTkdLbkhJcXpIazdNb0tvSlYxODJuNVlwSjlqWEUwdlV6b21BTEZVTzVpYkRyNFplSjdtZXh6ZjVxRGNRSGpFem1JTkZfWjI4U3ZRNzNsOXpocms3NU1yT2ZjMi1SdDNTNVFnNUxweGJVLWJrM0UxNVpvazRhVkNxa3MwWk1NdGVEYUVKS0RqMHRETktIRm9jcjJMSUp4ME9sZVowRGxTWXFzd3Y2aU1FVDcxaUdqNVNuMkw3WlZrZTczWWoza0xpdzlhWHJYMEZaUkFoSHdRS3JzeW9J?oc=5",
-      "date": "2016-02-26T08:00:00+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "e9204c6589f4d0d24000b261",
-      "title": "Emmanouil Kartsonakis (@manoskartsonakis) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4d1p2bVlLbE5wUENDbVp6NlZkSnpCQUhPNFZHSGVYbmJIQXlsMUhPUi1oZExPUDZTRU43dXpQcUlGOU5RUFU5clJsVFlLTS1YODNtLTdn?oc=5",
-      "date": "2016-01-08T07:10:48+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "383c12aa165bb82665adb228",
-      "title": "GOFAS Jewelry (@gofasjewelry) · Athens - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYU5ZdlhsX0YxbUtGUXZLU2s4NHBPaEV5V2FUWEJNaWxGRDRVWUkwX2dMcVJDcGtFazNtYWRaLWtvazBKMUZ1NzdXSHhDU2kz?oc=5",
-      "date": "2015-12-25T01:18:56+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "89362e79a6787e5bee022b91",
-      "title": "Liquid Media (@liquidmedia.greece) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QcW54aDlyVk1kU01MdUhRT3BJb2h5MDJBSzJxSzVMdDVLYWJROTVwdjRwRngxNDVWemhjSDNRRW40SmZhQ3VfeEVra3pVVi1WdVpWckh4bw?oc=5",
-      "date": "2015-12-22T19:29:59+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "5a3cf30489b94cefe0188d4b",
-      "title": "Moto & Bike TV #9 S03 - KYMCO Xciting 300 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CeVoxVVdKMnFrc1MwREFsWkg4TXhLekhsTzY1ZjNMMWk5Zjdnc3N4c19lX1h1XzJ5ZUl3MHJLNl9fbm5VV0ZCUUFOSHdLTjA5S2JQbktR?oc=5",
-      "date": "2015-12-21T15:27:31+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "d1be08d3d06414ff13cc9e9c",
-      "title": "L'atelier D'horlogerie Kiamos (@atelier_horlogerie) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjUGVYTU5na0dWZU1yZDg1QjExc3pXOGJUTkMtX3U3RUdRdkpEUlljaUpMbW1sYUF6YW5qWmctVnp5VGJ6NWpJY2JqWFUyT0xaNHhHa3hHNnQ?oc=5",
-      "date": "2015-12-16T14:30:34+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "05a63ed04e3bb64bfebdac44",
-      "title": "Giannis Davvetas (@johnny_dure) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmOWxKUDI4MnhfMTRWalQ0dE5QeVljZEZzV0tKZDlIaTlCRkpXRWp3Y0RBRndwQUd6LUp4WFZtYWc5R1RMYWtOTXlMdjFaNHc?oc=5",
-      "date": "2015-12-12T06:20:24+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "706f7d7bd085cbaea8520da5",
-      "title": "SAME84 the MVP (@rebel_same84) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fbkpmb1ZvTTk1eUEwRmQ3eUlGamRNeTVRR2lBaE1OaERId2xfLWprVV8tWDlTbHhDRlotZF9waEhoSzlvMEFYbEZBYUl6bE1h?oc=5",
-      "date": "2015-12-10T00:27:11+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "426e494d8a2870ff5bcd63d6",
-      "title": "Elena Dedoussi (@elena_ddss) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14VG1WeVdHcXhSLXI2eE9sV1lNVTlGRE5LQXhiMFJONmNfMFpvdDh5TkFnNkE0NHBtcDZETVJISzBscFdEQzlENmIzUEdJUQ?oc=5",
-      "date": "2015-12-07T04:13:30+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "d4cf7c44e789ff55e2a6b12d",
-      "title": "Panagiota Nikolopoulou ♾ (@tanianikolopoulou) - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBweU5SYmFfWmdzSnlNRnJINGVTWWZiS0MxOEg5QzRWNE1iOW1PYXBpSzNqU2VaTEdVTklhTENaWVc4MEZSbkxIZk1LeGhqc3VfU1ZpaTJYMA?oc=5",
-      "date": "2015-11-28T08:23:01+00:00",
-      "source": "Instagram"
-    },
-    {
-      "id": "97e33aa05c3b301e3c789bfb",
-      "title": "V Watches - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Tnc2NlRWNWNLSmQ5Tl9rMGZhSjI0UkpudHdDNXhvaDNjQ2hEN2VrSTZzNXVZb3ZOYnBOeXpwa2lUak5aMVR3WFJTakpRb3ZmaXc?oc=5",
-      "date": "2015-10-30T09:52:10+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "f46964a3976a7469b93e9119",
-      "title": "Tonia Sotiropoulou (actress) (@TSotiropoulou) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtVmhiVk1PUEszLVl2WVhDYWhJWlpmeW1NRThVRVMwU2F5QTNqQzBCRjkxYjlQR2FVZ1lsVU4taDZLY2djQ3VuMHdxOXhMdnZR?oc=5",
-      "date": "2015-10-30T03:16:52+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "20f42d202f7cd0b9322f9d3b",
-      "title": "Queen Olive - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBadm5nc3pvdmtJcFBvSVRIVG5mZll2MzlrQURtWm1VcUZzRUl1emJJNlpzd3QtcUJTdkFEOEN4eDk1NkhUSml4cl9TRGRkcUZN?oc=5",
-      "date": "2015-10-29T07:41:25+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "9ca6b7cf8532d6c45a586a4c",
-      "title": "Chronostore.gr - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UQXpadW81Ym8zMmU1eFl0WUFhZlViT3E5TGhRQUFDOEF3S2lHMFZQZ3VZWWhmWFh0M0NZVl8weklqV1NDZ29Ic1dZM3czZWVjT3c?oc=5",
-      "date": "2015-10-29T05:41:32+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "af997d81b6149516ad59b0fc",
-      "title": "Κάσσας Κοσμηματοπωλείο - Kassas Jewelry & Watches - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4taHFDRTZ4aU9TVDNEaDI0Y2U4Tk81c1dpVGk5WjYtb0k3cm1FXzdfNUFwQ3U3RmZmUkFvXzExanlQTUJkcHB6X0UxRlNqc1ox?oc=5",
-      "date": "2015-10-29T03:26:19+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "000c0e1d1a261fa656e7316c",
-      "title": "Panos Seitanidis (@SeitanF1) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14VXFBNGtEaDcyQzBFUDU1VGRfbG1KcjB3ek1aVDNhU1p5MkhlYk8ya2RJT2hNMmZaQkNUQnl1aVk4WmdxOFI5dURR?oc=5",
-      "date": "2015-10-29T01:58:45+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "7b147d33cd1088be46a880cd",
-      "title": "ORO e ORA PRINTEZIS - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tVC1PZlF4YmxLZ3ZiUmxPY29UeXNpUkhfd0tYSzA3NGxQQ0JRai1DZnFvVWN5SFdpWTZzbjFyQXkzWlhwYWZJTFV1MA?oc=5",
-      "date": "2015-10-28T09:40:05+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "f599f289b74d3c250d66f99f",
-      "title": "Πανθεσσαλικός Διαγωνισμός Ομορφιάς • Star Thessaly • Miss Thessaly (@MissThessaly) - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WXpicm5fZkItN29MV3VmQ2hJQ2dOU3VySDRRYWpkcldXcHdRbG5aanVNNkpUdUJWYi1OUk85MVo3UEZnMC1ZWUtvbW9FbjQ?oc=5",
-      "date": "2015-10-28T09:09:21+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "d67ff371bd5b204c6ce564eb",
-      "title": "VOSTOK-EUROPE GREECE - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43MkxSeG5kektqcFJIdng1aXJJa1hZRDdxaFlZNGZIYUNROTZvck1HT213RmJFZTk4X2FUb0lEOElOMGQxNjFna1FJdy1rZ3ZQNy1fbTFGY1E?oc=5",
-      "date": "2015-09-19T05:28:12+00:00",
-      "source": "Facebook"
-    },
-    {
-      "id": "25a0781caf36e61cdee97fb0",
-      "title": "Διεθνές Αεροδρόμιο Θεσσαλονίκης '' Μακεδονία'' (1080p HD) - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdFNtejVnX3lGdFdYbjg5eVJfVUhlSTFPUVVNbGpHOWYxNjVuZ0ZpN1U4WnJ1ZDJkdnloNnZKTkZMcTZWdUY0amxobS15ZzV0bmRfbE93?oc=5",
-      "date": "2014-03-20T18:10:46+00:00",
-      "source": "YouTube"
-    },
-    {
-      "id": "fcf2affd0fed825868d796be",
-      "title": "SWATCH Yellow Rebel Unisex Watch SUOJ700 - E-oro.gr - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tZEhLUG1EaTNIdXllWWJJV0R3S2QxOEo2QzdZVDhJRTJYdWpTazVEMVJKQTFlcURLbnJmbHp6OE9lSVI0UXhUNmhVVlhQS05IM0xKWTJR?oc=5",
-      "date": "2012-05-31T09:48:35+00:00",
-      "source": "YouTube"
+      "id": "ae17946bc64b877f91983a20",
+      "title": "Τα 10 καλύτερα ρολόγια της Breitling αυτή την στιγμή - Perpetual Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0ZCUHE5UG90YldPOU51Uzd4YlcycGFySDE5TjFybGdxM2JHbWozaHJrZEc2dWNRMF8wTmNXNmFSc0s5dEhER1V0d3JpQkY1alN6RUp0WmM2dEVBSExVWU5zWHU2OEJEcklNVzZTMnctOC0zY0xmSWxOWW9qN1dLcVc0RENMTlF6S0E?oc=5",
+      "date": "2020-05-18T07:00:00+00:00",
+      "source": "Perpetual Magazine",
+      "category": "international"
     }
   ]
 }

@@ -11,7 +11,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-DEST = ROOT / 'data' / 'feed.json'
+DEST = ROOT / 'feed.json'
 QUERIES = [
     'Breitling Ελλάδα', 'Breitling Athens', 'Breitling Greece',
     'Breitling Navitimer Ελλάδα', 'Breitling Chronomat Ελλάδα',

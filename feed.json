@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-15T22:35:55+00:00",
+  "updated_at": "2026-11-15T23:41:03+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -307,6 +307,14 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGNZbDhMMkJlU0llVDlPTGFJUzZRUHJrWElaZkgyMDNUc3ZEdFVGS0VLbVc2SjYxaUtwNlZwR2YyQmpKemI1M0ZudU56ZXlMdEdieGwxVUhBOGY5N3VqMXFEa1pmN1lCc3UwNE14cEFFNEZWQ1RIOG8tREZJRVh0dE9sSmZXU2E3VHlRZWZ6TU1jckJwVWV1aEd3ZTA2YWhwbEtOLTB4a2E1eDBIYkE0SVJpbWs5Y2xibFdSTlF3?oc=5",
       "date": "2022-03-31T07:00:00+00:00",
       "source": "Insider.gr",
+      "category": "international"
+    },
+    {
+      "id": "9aba99efd7b2f6acc0c81f55",
+      "title": "To πιο εμβληματικό ρολόι της Breitling έγινε ακόμα καλύτερο - Oneman.gr",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFhld0hubU9RRDQtbV9OU0NBYmJCemxqbGZlUHJIc3BMeDMyd3V2S2l3QVlHM24xOGZaNmZjbThXX2VMMFhycy15a0h6TjJrQjdUM2RSVUlaODVwQWVMRk96YV80TjhuY3FYQlcwUlNld0dsQkZWX016NW56MkdCWG0zbmZhUWhXcWt4U1JWTGQwZ9IBmgFBVV95cUxOWU1EYWhFaHRqM2dRaFY0anA2RHc4cTBWNkRTZVduNUhKMWZ2eGxsVExmUzZkR2JqODN3cGZENXVHRzlmN0JtME9IRG8wUXBVYTRXVk8tVlVUbGg2dXVFbS1Va29IWFdTaS1tc3JjZTFDQmJreUsxZFBSVmwyUkcwUnJfVlhPbW5EYzJ4Nm5CaGF3OUxMWmJONTN3?oc=5",
+      "date": "2022-03-31T07:00:00+00:00",
+      "source": "Oneman.gr",
       "category": "international"
     },
     {

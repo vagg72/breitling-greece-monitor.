@@ -1,13 +1,11 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-16T22:43:12+00:00",
+  "updated_at": "2026-11-16T23:39:13+00:00",
   "queries": 14,
-  "successful_queries": 9,
+  "successful_queries": 11,
   "errors": [
-    "\"Breitling\" Athens: HTTPError",
     "\"Breitling\" Navitimer: HTTPError",
     "\"Breitling\" watch launch: HTTPError",
-    "\"Breitling\" site:instagram.com Greece: HTTPError",
     "\"Breitling\" site:facebook.com Greece: HTTPError"
   ],
   "items": [
@@ -317,10 +315,10 @@
     },
     {
       "id": "d559bc13329fcd622c466255",
-      "title": "Ο Κίμων Φραγκάκης στη Breitling boutique: ένα Andro video για λάτρεις των ρολογιών - www.andro.gr",
+      "title": "Ο Κίμων Φραγκάκης στη Breitling boutique: ένα Andro video για λάτρεις των ρολογιών - andro.gr",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kQ3VBNFJFOUxYRlkxTmt6LTRXQVRPYVZwZXJNOE9lZW5uM3UzNEcySmY2c0Itcm9YcXM5U1k2Z3doajdhNUNNUHhTLUxzaWZCU3N2c3VGTEFmOWJ2X3ZFWW82SHYxeW5uYjNiR1BScnN5OGM?oc=5",
       "date": "2022-05-24T10:20:12+00:00",
-      "source": "www.andro.gr",
+      "source": "andro.gr",
       "category": "international"
     },
     {
@@ -357,10 +355,10 @@
     },
     {
       "id": "6deafbb86df316379698c0db",
-      "title": "Μοτοσικλέτα Triumph και χρονογράφος Breitling στo πακέτο της χρονιάς - Insider.gr",
+      "title": "Μοτοσικλέτα Triumph και χρονογράφος Breitling στo πακέτο της χρονιάς - insider.gr",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmN0cWEycDB0cjBxN09UUU5IRWIza3JRSTJrcDF5WEFkTlgzVURMaXVjc2cxS0s2REVQbnFsV2R3ZUc2YVBMTzBqS0Q0VFZsOC04TGpGdXg2QzVyQTd6eHgzbGxYWXdSWkJlVng1eEs2dmJELXVadmtXVVRZRXJiVHlaanhpSzlDbWQydE85TGEzTWZKdTBTMjdvZjdER2NlRFpIQWZnNk5ScU1lUFlzaUI2QjFRSFdJOFNxMHp3?oc=5",
       "date": "2022-02-23T08:00:00+00:00",
-      "source": "Insider.gr",
+      "source": "insider.gr",
       "category": "international"
     },
     {

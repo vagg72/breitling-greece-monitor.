@@ -1,15 +1,11 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-16T20:46:34+00:00",
+  "updated_at": "2026-11-16T21:44:25+00:00",
   "queries": 14,
-  "successful_queries": 8,
+  "successful_queries": 12,
   "errors": [
-    "\"Breitling\" Ελλάδα: HTTPError",
-    "\"Breitling\" Greece: HTTPError",
-    "\"Breitling\" ελληνικά ρολόγια: HTTPError",
-    "\"Breitling\" Chronomat: HTTPError",
-    "\"Breitling\" watch news: HTTPError",
-    "\"Breitling\" partnership: HTTPError"
+    "\"Breitling\" site:instagram.com Greece: HTTPError",
+    "\"Breitling\" site:youtube.com: HTTPError"
   ],
   "items": [
     {
@@ -358,10 +354,10 @@
     },
     {
       "id": "6deafbb86df316379698c0db",
-      "title": "Μοτοσικλέτα Triumph και χρονογράφος Breitling στo πακέτο της χρονιάς - Insider.gr",
+      "title": "Μοτοσικλέτα Triumph και χρονογράφος Breitling στo πακέτο της χρονιάς - insider.gr",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmN0cWEycDB0cjBxN09UUU5IRWIza3JRSTJrcDF5WEFkTlgzVURMaXVjc2cxS0s2REVQbnFsV2R3ZUc2YVBMTzBqS0Q0VFZsOC04TGpGdXg2QzVyQTd6eHgzbGxYWXdSWkJlVng1eEs2dmJELXVadmtXVVRZRXJiVHlaanhpSzlDbWQydE85TGEzTWZKdTBTMjdvZjdER2NlRFpIQWZnNk5ScU1lUFlzaUI2QjFRSFdJOFNxMHp3?oc=5",
       "date": "2022-02-23T08:00:00+00:00",
-      "source": "Insider.gr",
+      "source": "insider.gr",
       "category": "international"
     },
     {

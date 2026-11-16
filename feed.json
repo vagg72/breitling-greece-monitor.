@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-16T04:04:28+00:00",
+  "updated_at": "2026-11-16T06:02:18+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -91,6 +91,14 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmEyRkdUR0k1dzdHd3NQZHQyb3lXbDROQ2VqdVY2RnRCSjF0akp2UWtaaGFCRXp5SnR5d096LXJDMXlPRHZqZk9TTE1NSjVZY3pYUmdTVVUxQzItQkdXdEctendjNmVrLUhrTzNxdmtrTE1PUzJKejFYa3JDNS1ERHgyQVFtR285VUxZRg?oc=5",
       "date": "2026-09-04T07:00:00+00:00",
       "source": "mononews.gr",
+      "category": "international"
+    },
+    {
+      "id": "31a7219f01f8b0ec0fb99271",
+      "title": "Όταν η Breitling «κουμπώνει» το καντράν της στην Aston Martin DB5 - STARTUPPER",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHZULTlxT1pxZlBmQ2pjT2lCZmNxOGw3SWVKYzIxQlZlMWtKcWdnUWdvRGdHSk54aVkxdmE4RDJUbjluYTk4NWtWbm50azNneHJjWnloaVptZXRwZGtJMTJtckxSYUdKUjZJVGlMc21oMHE0enBWalFyTi1UUDNpOEhsa3BVa0FzYk1VckFfNzhZQm5KOWpUcnRGamRHQQ?oc=5",
+      "date": "2026-08-05T07:00:00+00:00",
+      "source": "STARTUPPER",
       "category": "international"
     },
     {

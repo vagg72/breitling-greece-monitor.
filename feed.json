@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-16T14:57:28+00:00",
+  "updated_at": "2026-11-16T16:40:27+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -260,6 +260,14 @@
       "date": "2023-06-12T07:00:00+00:00",
       "source": "downtown.gr",
       "category": "greece"
+    },
+    {
+      "id": "152dc66c914345906a91f3a8",
+      "title": "Breitling: Στο top 10 των κορυφαίων ελβετικών ρολογιών - mononews.gr",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGFUc2REZ0I4TmIwNDRQaVJCS2RHZThDZXFyWEZMWVZKODNiZWNiSlRUVm5aUlNIbzV2UzktbVcxTGh0V2wwTEc5RnB5TEhFdVlzRTlxR3lQTG1Wa2t0cXNLaVRFdnNQT1JIM3FMUjIwVXNyVklOc0YwODlRT09MckxvM0xkQTJTM0lpeUVpNA?oc=5",
+      "date": "2023-03-28T07:00:00+00:00",
+      "source": "mononews.gr",
+      "category": "international"
     },
     {
       "id": "d8df540edff8ec040c806716",

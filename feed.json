@@ -1,14 +1,15 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-16T19:52:55+00:00",
+  "updated_at": "2026-11-16T20:46:34+00:00",
   "queries": 14,
-  "successful_queries": 9,
+  "successful_queries": 8,
   "errors": [
-    "\"Breitling\" Athens: HTTPError",
+    "\"Breitling\" Ελλάδα: HTTPError",
+    "\"Breitling\" Greece: HTTPError",
     "\"Breitling\" ελληνικά ρολόγια: HTTPError",
-    "\"Breitling\" boutique Greece: HTTPError",
-    "\"Breitling\" watch launch: HTTPError",
-    "\"Breitling\" site:youtube.com: HTTPError"
+    "\"Breitling\" Chronomat: HTTPError",
+    "\"Breitling\" watch news: HTTPError",
+    "\"Breitling\" partnership: HTTPError"
   ],
   "items": [
     {

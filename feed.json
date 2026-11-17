@@ -1,11 +1,15 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-17T05:56:50+00:00",
+  "updated_at": "2026-11-17T07:13:29+00:00",
   "queries": 14,
-  "successful_queries": 12,
+  "successful_queries": 8,
   "errors": [
     "\"Breitling\" Navitimer: HTTPError",
-    "\"Breitling\" Superocean: HTTPError"
+    "\"Breitling\" Chronomat: HTTPError",
+    "\"Breitling\" Superocean: HTTPError",
+    "\"Breitling\" watch launch: HTTPError",
+    "\"Breitling\" watch news: HTTPError",
+    "\"Breitling\" site:facebook.com Greece: HTTPError"
   ],
   "items": [
     {

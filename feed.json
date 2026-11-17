@@ -1,9 +1,13 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-17T14:19:10+00:00",
+  "updated_at": "2026-11-17T15:52:09+00:00",
   "queries": 14,
-  "successful_queries": 14,
-  "errors": [],
+  "successful_queries": 11,
+  "errors": [
+    "\"Breitling\" boutique Greece: HTTPError",
+    "\"Breitling\" watch launch: HTTPError",
+    "\"Breitling\" partnership: HTTPError"
+  ],
   "items": [
     {
       "id": "0dd81c572db3ba8e6393180a",

@@ -1,10 +1,13 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-17T00:56:47+00:00",
+  "updated_at": "2026-11-17T02:11:18+00:00",
   "queries": 14,
-  "successful_queries": 12,
+  "successful_queries": 9,
   "errors": [
+    "\"Breitling\" Ελλάδα: HTTPError",
+    "\"Breitling\" Athens: HTTPError",
     "\"Breitling\" ελληνικά ρολόγια: HTTPError",
+    "\"Breitling\" Chronomat: HTTPError",
     "\"Breitling\" site:facebook.com Greece: HTTPError"
   ],
   "items": [

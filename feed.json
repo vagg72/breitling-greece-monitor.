@@ -1,12 +1,11 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-18T11:00:09+00:00",
+  "updated_at": "2026-11-18T12:00:06+00:00",
   "queries": 14,
-  "successful_queries": 11,
+  "successful_queries": 12,
   "errors": [
     "\"Breitling\" boutique Greece: HTTPError",
-    "\"Breitling\" Chronomat: HTTPError",
-    "\"Breitling\" watch news: HTTPError"
+    "\"Breitling\" site:youtube.com: HTTPError"
   ],
   "items": [
     {

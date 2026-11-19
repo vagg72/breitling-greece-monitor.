@@ -1,15 +1,25 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-19T13:06:15+00:00",
+  "updated_at": "2026-11-19T14:50:03+00:00",
   "queries": 14,
-  "successful_queries": 14,
-  "errors": [],
+  "successful_queries": 13,
+  "errors": [
+    "\"Breitling\" site:youtube.com: HTTPError"
+  ],
   "items": [
     {
       "id": "0dd81c572db3ba8e6393180a",
       "title": "Πωλείται το εμβληματικό Breitling Top Time B01 \"Ford Mustang\" (Ref. AB0176). Πρόκειται για την ανανεωμένη έκδοση με τον in-house αυτόματο μηχανισμό Caliber B01 (70 ώρες αυτονομία, column wheel χρονογράφος) και κάσα 41mm με 100m στεγανότητα. Κ - Facebook",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vWWFaZjQ5YkxhQUJUTENDcUZKdUFZNGxISUlqMHkySTlfRk40R1VFMUlOc19JN29ucFpma1JFeVI4MDVwX2d6cThHRzFUbVlkN1hYQm5NeE0tTS1CVEZmaVNFa0YyNVFNakRaaXBROVA0N2I2cFBFUV84NlR3QQ?oc=5",
       "date": "2026-11-15T08:15:23+00:00",
+      "source": "Facebook",
+      "category": "international"
+    },
+    {
+      "id": "2f20feb16b68f8b6d62dc81b",
+      "title": "Πωλείται το εμβληματικό Breitling Top Time B01 \"Ford Mustang\" (Ref. AB0176). Πρόκειται για την ανανεωμένη έκδοση με τον in-house αυτόματο μηχανισμό Caliber B01 (70 ώρες αυτονομία, column wheel χρονογράφος) και κάσα 41mm με 100m στεγανότητα. Κ - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJaW1uZ2hmcDhmQXY3YTliZEVMMDdGbGFNOGt5aGkxZE0tMjlGQ25FeXcyaDJqSm01dlotN09wSmNXbzJXcHFpSUFyTzcydmRuVWZjck1MWVBvNnppYkZiN21VRFVhUjVIMUlPdzh0T2NoY3Jvb2htLXQ4Z3k?oc=5",
+      "date": "2026-11-15T08:13:34+00:00",
       "source": "Facebook",
       "category": "international"
     },

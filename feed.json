@@ -1,10 +1,10 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-19T01:02:06+00:00",
+  "updated_at": "2026-11-19T02:48:59+00:00",
   "queries": 14,
   "successful_queries": 13,
   "errors": [
-    "\"Breitling\" Ελλάδα: HTTPError"
+    "\"Breitling\" watch news: HTTPError"
   ],
   "items": [
     {
@@ -232,6 +232,14 @@
       "category": "greece"
     },
     {
+      "id": "e04da149dae7519e5a5876ad",
+      "title": "H Breitling παρουσιάζει τον Έλληνα σχεδιαστή γυαλιών ηλίου, John Pan, με ένα μοναδικό event - Downtown.gr",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjZudEZVQ3pvb0VqcUprSlFyWGZPUkhrbkZVcEprcjNNVkhDeW1BaEhQbXNJX1l0SGwzVDdGMDdUQ1diQzM2aEN1QzN5NnZQYm9rakt5WVcxSWxHNEFmSk45dVY1TUxnaUU0dVJIN1RjUFNtSXVJSGluTE1oTnZuZDFqMWwyUnh3OGcyemQwRHgzQldCbTdzckhMNGd0aDkxanVqcUthV2lDeUllY2ZrOA?oc=5",
+      "date": "2024-05-21T07:00:00+00:00",
+      "source": "Downtown.gr",
+      "category": "international"
+    },
+    {
       "id": "1572f11a9fe465757790a1e0",
       "title": "Τα ελληνικά χρώματα της συλλεκτικής έκδοσης Superocean της Breitling - ΤΟ ΒΗΜΑ",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekNrZWtHZUFzcFlSVEJ6OVlLUVVraW1sMkFBZ0xnbnBQYWtMWU1XcHcyUk81OGRsY0VGRk15NzlSQTBZWEdiVVVTRjBPYmRBQTgyZ05pdzFnMXlVd00zSDJYQWROQnhqUkd6TUV1OXAxRVFvbEQ2UC0talV5VDRlT21MeTExTEp6aWhuSVFlRDZxaUFFbDBuZXJyekMzTm5xQlBSWW1Hb2tpa03SAbABQVVfeXFMUEc3N1NZZEtaeWFFNlAwRnVrSDRBVEluUTdTN2JYTXpQam1MNl9fMFU3R19zaGJZMXdiNjIybUlHenlJenFCN0pyaTFhTE02M0NjdFh5Y2dzSExWb1czTUl4Ymdqbk1QbUkwQkpScVJyYWVobGFjc2s4MzViRzk2a1Jsc21GZVA1VGdfRXkwM2M4T2dZYU10c0FHZzhJVUhUYUFQQVJRRWozNkl3bkxUc0U?oc=5",
@@ -400,6 +408,14 @@
       "category": "international"
     },
     {
+      "id": "9ccf4e792f11b0ec49be759c",
+      "title": "Λαμπερά εγκαίνια του πρώτου flagship store της Breitling - Cosmopoliti.com - Χριστίνα Πολίτη",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmdiOUlzMEJnNE9EajFqNTAtODY1MnN1YU1xbTROeDRaNTFzQ3l5VGYtUUdyVWowWmI5QnN0Q0FKQUZOR1hRZ2lwdUxna1VJcm5zLWFlQWpkSkJwLTZmcDVuS1J0eExZeWFFSkhPdzBBR2Q2RmJoVW1qbnp3bUVxQmlnQnZqS1lo?oc=5",
+      "date": "2021-10-23T07:00:00+00:00",
+      "source": "Cosmopoliti.com - Χριστίνα Πολίτη",
+      "category": "international"
+    },
+    {
       "id": "2cd01d3e7888a85b6e4340eb",
       "title": "Top Time Classic Cars: Ρολόγια εμπνευσμένα από αυτοκίνητα-θρύλους (video) - NewsAuto.gr",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVdabjlhbnJiaTZLcTZkNFBycjN0aVJzMWRKSnItNjRnaURId2xnNDR5SXNBTmRCRXpDaHYxQXRFdjIwQUhBSmNwcW1CVWJuSXkzTzBWR05uTjVNdzhKM0p5d3BVVW96M1RnbzMyOFUtUXFkc0ozUUFYa1h6S1g2OTBHTTZ2Uk04OFhBNjdkNXNpV2VWQmk1OXIyQ2pDbjlyUG8w?oc=5",
@@ -429,6 +445,14 @@
       "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxOMDRwcDNCVnRUTlAtQ1ZOS3pwOTI3VXJuWmNqd3daNjJYcnBvbXdBZGFQVUhaWHJKNXZnYkZLVUtjcm5qQjJxcjg3RzIxSmpvdmVfMVBYZEl6VlB1V3NhaGVXWlNpY3V2S1Fvdkg3eWFoVGFGbGNxYVJ4Qmcza3AxRHFuc1RjUllmRnoxYjhiR05Od1ZMR3RxSHZkOGtMUGpFWkFlajk2Z1k5cUdYX2w4b3pYTkdSMDhpZzdFbnBLZGE0a3lQSk9ON042NGZPME1IQno2Q2pXbHRBYkNvYUQzRDVqWkhVYTBkQVJLVXZaSi1WTnUtME0xa3gwZ19JT3FFY2ZhUUpTN3Jfekl0ako3OWJwV0ZtSDI5LXZHQ0pkTkxxaTRUcmo2MHhPRzF0TEF5cHpJMTg2ZEpmN0tsNzl2bEJzeTZUODBmV0ZJTE1KZExJaVdIR0ZvckR5RWhLSDU3aG4xckRlcE1KNGpiVEJBSW9mdDJfTzk4ZmJITmdtMFFZLVRTUjZPS3poY3g0MHhNWXNUQmxwLW1teVJubFRjZ3JNaUlDdFZ2UG5HODFRaHgwZ2E3cUhMMlNDU2plalRzallXbGFVYzNhTHJDU0NOSC1NX1hCNzY2LWlGOUNLWHJ4akZ0cUFBZHdValdGYkJWR29ydFZlTDBaTVhOWWtoMGVNdXZlQ1pYdnByWFR1eExnZk9rLU0zMEJ2dm5EYWF5a3d2bg?oc=5",
       "date": "2019-07-03T07:00:00+00:00",
       "source": "Facebook",
+      "category": "international"
+    },
+    {
+      "id": "618c1b82d7a1c68f4b4fc47f",
+      "title": "Breitling & Norton - Συλλεκτικό Ρολόι και ασορτί μοτοσυκλέτα - BIKEIT!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTZVWV82NGtYcHJsdVZBS2RtSGJaMzVvak5Gdm9EdjZ3R1lZMnVqY0k3QzVHaS1UYWlXeVQ5SC1iaHU0MGFXS1lIRU1sUXgycFZISU8yWDl2eGpBaklic2RRQmNKeGNxTEZleE9uWVJScjFVZ0dzb2xnMlBqSWsybldNaEF5TEkzQ1FteC0zcmlNWHBNaThFTUpZYWxLWW9lMmc?oc=5",
+      "date": "2019-03-19T07:00:00+00:00",
+      "source": "BIKEIT!",
       "category": "international"
     }
   ]

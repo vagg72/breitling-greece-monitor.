@@ -1,13 +1,9 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-19T11:02:00+00:00",
+  "updated_at": "2026-11-19T13:06:15+00:00",
   "queries": 14,
-  "successful_queries": 11,
-  "errors": [
-    "\"Breitling\" Navitimer: HTTPError",
-    "\"Breitling\" watch launch: HTTPError",
-    "\"Breitling\" site:youtube.com: HTTPError"
-  ],
+  "successful_queries": 14,
+  "errors": [],
   "items": [
     {
       "id": "0dd81c572db3ba8e6393180a",
@@ -23,6 +19,14 @@
       "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNZ1lRVGNRWUcxUzI5RWhvX0p0Xzl5Y1pxeTNvbmRtLXdYYUFjaFVzY3R4Skg5S3QyT0JSSnFDLXc5UllnbGJrODN1WnBlWVhmWWtvNkhPdXQyY0RIS0YzeFBqMkxuZW94aElUakJRS3dPdEZnSVphTUZzck85R2xrcGpnOUNjQWg1ZmlCeF9WeWRVYWppZ0pvRVdkSlBBQmhRZTgxcW9RQ3hFeWpQTWlnQzloeWkzWWdHTFc4RHlzcUw5OUF2STZZLXJ0c3lTNmZYT2hrMHh3Z0E3eGNland6RkRwZTkyNnBBX1ZCRTlYRkpfYzVCelhUZE9jQmxERkQ1TVBaeTBVaUlpT1ItTTdkVVB2bWNOQi1JcUdrdlI5NVF3TkxBcGFwLWQxWkk0cko0UkNrdlRvclRraTNjTGhMMXFQenFGX2dnOXFIUEVIWU55alNsbVpmMkNTRnYtT3MxR24zY25aTmtQZ3Q5Ymc5MDkzT2E5VDYyeHo4RElKcmlWeFk3NGNZUUpHeHlocE1JU250M2RiZ3RYdGVsRzJZdVFMd2xDd3lOcmliaE4tYTNYby1fWmVxWDBwcExpTmJLc2NPTmN3cjdGa1ktbkVaNm1pdjYtSkFmR3hYRVBCREJDdzFxT3I1WXgwU1Znd2MzMjZFR2xGYU9MX1kyMjYxeHp2bkgzeW9pckNmcDR5MTFIVmU0WkdPa0t6aEVYdw?oc=5",
       "date": "2026-11-13T15:29:22+00:00",
       "source": "Facebook",
+      "category": "international"
+    },
+    {
+      "id": "467be6eac6925b1ac8ed3d92",
+      "title": "Cuts & Watches ✅ Many Thanks to: @breitling_athens_squad @breitling @captainfawcett @vasilissera @joysbirththebarbershop @kevanjohnsonday @elena_ddss #breitling #captainfawcett #barber #barbershop #watches - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94bDF3Y3N4Snp5N1JyVTF6QXctT3FCVkNod2twRmRjM1hUZlpGb0tlVXBBLTVja0FQems3VEVNUkpOV1ExSkRSUVZTRTRIdHRYdlhSa3Vn?oc=5",
+      "date": "2026-11-12T07:38:04+00:00",
+      "source": "Instagram",
       "category": "international"
     },
     {

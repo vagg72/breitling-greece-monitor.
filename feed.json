@@ -1,11 +1,9 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-19T02:48:59+00:00",
+  "updated_at": "2026-11-19T03:53:11+00:00",
   "queries": 14,
-  "successful_queries": 13,
-  "errors": [
-    "\"Breitling\" watch news: HTTPError"
-  ],
+  "successful_queries": 14,
+  "errors": [],
   "items": [
     {
       "id": "0dd81c572db3ba8e6393180a",
@@ -158,6 +156,14 @@
       "date": "2026-03-02T08:00:00+00:00",
       "source": "Instagram",
       "category": "international"
+    },
+    {
+      "id": "4fce2b2385b90dca4245762a",
+      "title": "Η Breitling Boutique Athens φιλοξενεί μια μοναδική εικαστική έκθεση της καταξιωμένης δημιουργού, Elli Lyraraki, σε ένα περιβάλλον - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPRnRaeDZVUHdDTU5JN2lTS0dxOGtocUNHd0VDcFVzUThOb0N1LXNEZVdKV3daNE9FUW9yRUpkUTlyNEtoNDJLQm9acDUxNEhIbnVySC04ZVVRMlJsYUo1aXgxa2l3X19MZi1HRjN5U3ZYWGU4WXFGU0tvQW9ZWWpVME9tNHhOeEhFZWtCN0ZtRG45enh1RTIxV1lPSmVDUzkzTmRqVjdRaS1kS0M1YjdmOW1DZHltRDlzMndRdzM3d3V4MWtnWkxtbzhjS3NvZDVKQ3RhWU9ZYVZLdkkxc2NyUFJ5aUI5VWRNeklHQllBX2d6bDYwTUJ4c1J6cmJMMkdvaHpueGFNd1dVTzZDZUowZjlRWldERWVRQ3dlbjJNalNrLXp5Wm5yWW1NNmNPdkVBVHFPemcxTW1MN2Y3b3BzTE1wa2tLUUZSOXNKSXo3dEtZM2RNMmh1Q3lMRDlvVm5oZWdnMjI3eGN3WHY3Zjk0Z2pPQzkyMmdvdlloSW5ZZXlXSTRvenF5eUlfVzlrU0RaLUgxaS1PWHowRlZqZWlrWFoxMVhLelBIV1JMUk01alpBUnN5LTlvMVVhWk5fdmdtNEtaQjFJbE9ScFM1dE9EOTNzRy13YzlIRHY4V2ItR0tlVXlXYnE3dmVzMURScG5Ba2QtQk9EOFB0ZW9hNWZFaEZWRmNZN2hKSU9sN2JYcDRKbnZfaUJwTk83aWtPUEMwTXRscW5jcGZUM08zS21nanB5YU00QVVoOHFobVFzSUY?oc=5",
+      "date": "2025-12-08T08:00:00+00:00",
+      "source": "Facebook",
+      "category": "greece"
     },
     {
       "id": "0c67c5e685290b10ece14c50",

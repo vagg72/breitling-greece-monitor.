@@ -1,9 +1,11 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-20T11:03:39+00:00",
+  "updated_at": "2026-11-20T13:00:33+00:00",
   "queries": 14,
-  "successful_queries": 14,
-  "errors": [],
+  "successful_queries": 13,
+  "errors": [
+    "\"Breitling\" partnership: HTTPError"
+  ],
   "items": [
     {
       "id": "0dd81c572db3ba8e6393180a",

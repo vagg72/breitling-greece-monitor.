@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-19T23:40:49+00:00",
+  "updated_at": "2026-11-20T00:56:25+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -276,6 +276,14 @@
       "date": "2024-05-07T07:00:00+00:00",
       "source": "ΤΟ ΒΗΜΑ",
       "category": "greece"
+    },
+    {
+      "id": "32f7f7186281c518ad9c832b",
+      "title": "Ένα δείπνο υψηλής γαστρονομίας με την εμβληματική Breitling στο πλαίσιο του GLOW 200 Anniversary με secret guests of honor τους chefs Σωτήρη Ευαγγέλου και Άνταμ Κοντοβά - GLOW.GR",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSkNocjlpdGtHOGtrUG1mZ1dZRHQxWUpleHhVa0d1aGJYUnd3Z3IxQ2xnNnA2QjJrdHYyLWlZT0xrWEc1eWx3NGdxRFVub0tGSVhKNERBOU9mWEVfcFJ6RHFlQWxqVEZaMDJCSWlEU1pOb3prOUNPbXh5bW1wS2RrTFlpUEE2UWZvU1BwUERfbi1kYWZlTDI4dzdqMVJfOEliV3pLZmc2M1hXbDdEc2JkbDEyMlNkNGVSaUJBTDJNZG5GZE0zcjFHVzFkb0hQUHRfU1dBX2lNRFIwa1laRHZ2VkZSQ0F1S2VyRnUzMWM2eUphdXpRU3pVV1ZHVXBrWGxWMGNIU1FlbzlIYkl6RElZa0pvZXgxSXk2QlN6dlpB?oc=5",
+      "date": "2024-04-28T07:00:00+00:00",
+      "source": "GLOW.GR",
+      "category": "international"
     },
     {
       "id": "7ae989b01c268999d268d570",

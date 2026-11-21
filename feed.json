@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-21T16:42:11+00:00",
+  "updated_at": "2026-11-21T17:39:06+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -515,6 +515,14 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVdabjlhbnJiaTZLcTZkNFBycjN0aVJzMWRKSnItNjRnaURId2xnNDR5SXNBTmRCRXpDaHYxQXRFdjIwQUhBSmNwcW1CVWJuSXkzTzBWR05uTjVNdzhKM0p5d3BVVW96M1RnbzMyOFUtUXFkc0ozUUFYa1h6S1g2OTBHTTZ2Uk04OFhBNjdkNXNpV2VWQmk1OXIyQ2pDbjlyUG8w?oc=5",
       "date": "2021-09-20T07:00:00+00:00",
       "source": "NewsAuto.gr",
+      "category": "international"
+    },
+    {
+      "id": "f8a18b93e233935b029a68bc",
+      "title": "CVC Capital Parnters:Συζητήσεις για πώληση μεριδίου της Breitling - Ink.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRE9pbmN5WjZpWWtkVHZGSm1NdEN2ZGhmLTNPNjZ6TllFTTdVdVhxTXZReTVjWDJCdnE5Snd5YVZvRktqdlJHb29xTVRwajU5WWg0dmNRVmFqX0xFOG9SRkxhQllqVzR5U0Rfa0RhWGtBUnliaThlMlBEUGF6bTJ4RHdtV1A0WE1rd1M0am1UaGQ0V1pxeDg2ZlRuaE8?oc=5",
+      "date": "2021-09-03T07:00:00+00:00",
+      "source": "Ink.com",
       "category": "international"
     },
     {

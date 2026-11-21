@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-21T00:59:16+00:00",
+  "updated_at": "2026-11-21T02:11:53+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -340,6 +340,14 @@
       "date": "2023-06-23T07:00:00+00:00",
       "source": "NewsAuto.gr",
       "category": "international"
+    },
+    {
+      "id": "a0dbabec5a54ccf1ccfa571a",
+      "title": "Η Breitling υποδέχτηκε την Kooreloo σε ένα καλοκαιρινό party στην καρδιά της Αθήνας - slpress.gr",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE9OcE5yT3NqQWtaRzBxU2hsSkNwQTRITGNzbzR0M0hLM243elB0UGJqM3lqMXNjaXR6bG9QQnBobTNzUUhlaTd6all4b0todU56eE1ackhGRHpjM0VDblhSOWRVdjdRQkY5SkJSR1FEcmFmbXN4XzdPZFMtdTlOYmlueVRPT0xEa3A3TmNoX1BkMVp5cV9vY2dja2tiT1dtY0dNdXozTWpzVGpOSlhiZHlVN21TMzRCbGfSAb8BQVVfeXFMT2VKZjNsSFIyMy1naHV6YU9HX3J6Y1F1blNDSXVFX2tmQ0xrRFU5X1M5bjdJTTRkSlN0TW9SaV9LLWstTS1NNi05T1F5YnVteFRjb1lBbHRXb0kybVBxZ1VZejhULUpvdkFTdFFNNzBmVXc1dWdXaVpuLUFaQ0toeTRWVjlPRGIzU0UzdGFQNThkSThDS1JxMjhTU1BnanFKQ3pJeXhpY3F5REN3ZFlfendOSDNYY0Y5c3ItbGlFZUU?oc=5",
+      "date": "2023-06-14T07:00:00+00:00",
+      "source": "slpress.gr",
+      "category": "greece"
     },
     {
       "id": "20595689c7ded06e6a0251b5",

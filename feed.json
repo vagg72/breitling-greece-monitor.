@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-23T22:49:25+00:00",
+  "updated_at": "2026-11-23T23:46:58+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -300,6 +300,14 @@
       "date": "2024-06-06T07:00:00+00:00",
       "source": "GLOW.GR",
       "category": "greece"
+    },
+    {
+      "id": "c0b91195c03658e477bb0954",
+      "title": "Triumph Speed Triple 1200 RR Breitling Limited Edition: Για 270 τυχερούς - 2WO",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWVIcDR5M0VuYm5SM1RjRkltOENFZmNOOGZZTm9KR1VxTnlCeGEyNlhqLWVaVnlGV1l2dndacmdGSnBOOUxVTmpuaW5uUDk5SzUzSjdUekJFOTdMeTY5WlEwR3RLZk1wSTZOcnFZa0V3UG9ocWs0eHowNjB5ZzNXNnQwcmhkSjNhTUVtbjJYZDVqMVZWSlFTak1TZ1Y?oc=5",
+      "date": "2024-06-06T07:00:00+00:00",
+      "source": "2WO",
+      "category": "international"
     },
     {
       "id": "5ba214b1b0e48965389241e9",

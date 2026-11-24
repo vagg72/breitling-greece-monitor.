@@ -1,9 +1,11 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-24T03:55:38+00:00",
+  "updated_at": "2026-11-24T07:07:52+00:00",
   "queries": 14,
-  "successful_queries": 14,
-  "errors": [],
+  "successful_queries": 13,
+  "errors": [
+    "\"Breitling\" Ελλάδα: HTTPError"
+  ],
   "items": [
     {
       "id": "945cdd9b6975d7696ca98808",
@@ -247,10 +249,10 @@
     },
     {
       "id": "b439959406c78570d108964c",
-      "title": "Η Breitling και ο Erling Haaland υπογράφουν το πιο διαστημικό ρολόι της χρονιάς - downtown.gr",
+      "title": "Η Breitling και ο Erling Haaland υπογράφουν το πιο διαστημικό ρολόι της χρονιάς - Downtown.gr",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3U2QXphblBvaXFFeXlZcldELU1LVkJmNl9fRUxRbkxJb1JfangteGtQRk9Ualp1QXJnaWVBTjJUQk83MjllYnRJNjZBcmlrRXM2d3NCSEI3U2wxV3R3MFVjbXI3VGJIS2tTYmdZUzQyWlNHcVVBS3hMblR1UWlmbjJ3ck8zTUpOcEJhQ2piZExOVExZenNrNklKcTM4SExwMl9J?oc=5",
       "date": "2025-07-16T07:00:00+00:00",
-      "source": "downtown.gr",
+      "source": "Downtown.gr",
       "category": "international"
     },
     {

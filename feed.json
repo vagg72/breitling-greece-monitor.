@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-25T13:20:40+00:00",
+  "updated_at": "2026-11-25T14:59:03+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -579,6 +579,14 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2hWZjM5b2RFMkQ0SWgtM3NWY0hadEgzYmExS0dNOF9rV2UydHh4a3RDNnE4SUFZREVDWlQtbnpHa2FDaWx3a3lLMGxVeE1nQ3VaMWdzalkydzJlc3lmdlcwYkdEc0VtUks5RW1BMVlPVDA5QkFFa0JBQjFSdTBwZUlTWmnSAYwBQVVfeXFMUHVoOG5HbmtCemo3V1NTS3RwU0NfMmcwOWpLWEhLM1lGSTh3OWRVZTBReEs1UXhpZzZGYVYwbkk4WV9ZcDlVb2pFYVY0NlNDM0JYWFg1N2R0RWluZ2lmTXJlajFiOF8zVlo2bEFlTG9oR0ZyVzZWYkdSUnhqenAzS2h6amIxS2llaGVmbGo?oc=5",
       "date": "2021-04-29T07:00:00+00:00",
       "source": "Oneman.gr",
+      "category": "international"
+    },
+    {
+      "id": "baddf41e5217088db38524ea",
+      "title": "Το πανέμορφο -και άκρως συλλεκτικό- Tourbillon της Breitling για την Bentley - Andro",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8weTdVWTc2aEc1UmNubVlaQkVEWkM0VW9NNWZLdnRlODBEQnlvQ0tVb1I0cV82UGQydGJmVVhvM09rTW93UWNYUUVZZ3g0VDVSQTZQQndNRFpxT3c1OEpIbw?oc=5",
+      "date": "2021-04-08T07:00:00+00:00",
+      "source": "Andro",
       "category": "international"
     },
     {

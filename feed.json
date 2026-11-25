@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-25T14:59:03+00:00",
+  "updated_at": "2026-11-25T17:48:13+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -427,6 +427,14 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11R1dFb1EwUWFBeVZzTmVpQVlxTnRyeWJEbFgwdGY2RDd0aThsTTlOVVhMb1lBUUIzbjFpYmY2VGZzR0dZVm9hVjRja1JKZ1kyWUlUNFdZUlAwYkU2dWx3QUl4dWs?oc=5",
       "date": "2022-12-09T08:00:00+00:00",
       "source": "andro.gr",
+      "category": "international"
+    },
+    {
+      "id": "8135da8d268cd4f3b52052c7",
+      "title": "Any news? _____________________________________________________ 📸 @thevipphotographers _____________________________________________________ @breitling_athens_squad @breitling @breitlingowners1884 @breitling_celebrities - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HN3hWWWF6RTNYdExmMGUtdFRyS0R5ak11Z1FZNWMzT2lrd2hMa3NRNDVKWm41S2VyTGNsNHJ1TG1ycXNNTUdFbmJFdUpfU3Rpcnc?oc=5",
+      "date": "2022-11-26T08:00:00+00:00",
+      "source": "Instagram",
       "category": "international"
     },
     {

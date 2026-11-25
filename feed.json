@@ -1,12 +1,9 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-25T07:12:11+00:00",
+  "updated_at": "2026-11-25T09:00:26+00:00",
   "queries": 14,
-  "successful_queries": 12,
-  "errors": [
-    "\"Breitling\" Navitimer: HTTPError",
-    "\"Breitling\" watch launch: HTTPError"
-  ],
+  "successful_queries": 14,
+  "errors": [],
   "items": [
     {
       "id": "d871fe48bf7b8afe5f29626b",

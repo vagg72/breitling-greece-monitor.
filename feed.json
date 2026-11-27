@@ -1,12 +1,9 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-27T13:08:08+00:00",
+  "updated_at": "2026-11-27T14:51:30+00:00",
   "queries": 14,
-  "successful_queries": 12,
-  "errors": [
-    "\"Breitling\" Superocean: HTTPError",
-    "\"Breitling\" watch launch: HTTPError"
-  ],
+  "successful_queries": 14,
+  "errors": [],
   "items": [
     {
       "id": "c7d433e24177066531977df3",

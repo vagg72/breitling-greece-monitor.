@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-27T05:05:47+00:00",
+  "updated_at": "2026-11-27T07:11:12+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -564,6 +564,14 @@
       "date": "2021-11-19T08:00:00+00:00",
       "source": "Insider.gr",
       "category": "international"
+    },
+    {
+      "id": "4fd4baee4598ec3adee4a371",
+      "title": "Η Breitling καλωσορίζει το πρώτο της Flagship Store στην Αθήνα - Ladylike.gr",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDQ5djhmaFBfLWhER1hCOWhKOGZDOFlyLWFPYV82cHJPSlc0aV9Vc0s3Yk5RMnFRUEEyMFJnMDhiREpFak9qUmIwMVcxcUc5djZORjlEb3BSbGVEOXhaTEo4b1ZyVWRRWmdkZ3ZXZ2RyY19RbW1zZ2RlaTNJWUpPdGhhOUdhT3VKM2ZhSHVONkFFZUdhSXAtdXVR0gGiAUFVX3lxTE52d1FfV0MyVDI0SVRZOFhBN1o0aGQwSHIwSU1uNFVyT0FJWXRBZVJMcGNDaUNzenN5Q3gtc3FEQXljRWxzT2Q2THpRdkxaUVh2U1ZaLUFCWlhMUFN4WDZzeVB5YTFJcEl5VUpjZkM0c2xqNUxNTjRGTFJIR2Zzdkp1V2RodDZzZGdqcmRpTXEzdXBMcVlsbGF5RGNmZE5La3lKZw?oc=5",
+      "date": "2021-10-26T07:00:00+00:00",
+      "source": "Ladylike.gr",
+      "category": "greece"
     },
     {
       "id": "9ccf4e792f11b0ec49be759c",

@@ -1,9 +1,12 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-28T07:08:40+00:00",
+  "updated_at": "2026-11-28T08:49:07+00:00",
   "queries": 14,
-  "successful_queries": 14,
-  "errors": [],
+  "successful_queries": 12,
+  "errors": [
+    "\"Breitling\" watch news: HTTPError",
+    "\"Breitling\" partnership: HTTPError"
+  ],
   "items": [
     {
       "id": "c7d433e24177066531977df3",
@@ -484,6 +487,14 @@
       "date": "2022-07-15T07:00:00+00:00",
       "source": "Andro",
       "category": "greece"
+    },
+    {
+      "id": "130bd1bbaf5e47e18dced68f",
+      "title": "To νέο SuperOcean της Breitling σήκωσε κύμα - Andro",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91VllRYzU4TFZhZmhwQVIzTnhXQ0ozS2Z6a1R2YXo2TF9PR1RUZWtOa1ZXd3BNcjFsandCdlVWX1hBMW1XdVp6amR4RDBzcTVSendQQ25UaFZDUGc0bW5NdXpXbHNCXzA4Y3NZ?oc=5",
+      "date": "2022-07-04T07:00:00+00:00",
+      "source": "Andro",
+      "category": "international"
     },
     {
       "id": "c29f742ab899376d33fa0375",

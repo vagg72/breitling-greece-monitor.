@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "updated_at": "2026-11-28T13:59:39+00:00",
+  "updated_at": "2026-11-28T14:51:42+00:00",
   "queries": 14,
   "successful_queries": 14,
   "errors": [],
@@ -315,6 +315,14 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fYjBLOFIzRmo3aE9KY29wOGpWdzF5aUVBc2VkdlFEYmdNV3hpNmRXQnRnSTVaSU5hRFk3anBrRks3ZlNocTBmTW9Kb09mVEh4M3c?oc=5",
       "date": "2024-08-22T07:00:00+00:00",
       "source": "Instagram",
+      "category": "international"
+    },
+    {
+      "id": "6d5e1fb3f56531a3cf88d277",
+      "title": "Το απόλυτο αθλητικό ρολόι σε ένα νέο κομψό μέγεθος: Το Breitling Endurance Pro αποκτά μια ενισχυμένη ομάδα τριάθλου - Oneman.gr",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklIR19QOGw1YWN6WUh2S2xrWkNfNkh0OV9yT0dGMElGc2RhQ3d4RnFsZ0tNNHVIc0lYOHpvRXQ1YjJnR2poVHIxdV9KY0ROSUtERUI3OVZwUmVyeXdJX1JMRUlwb1cwZTFrWHduOG1iNDR1azhGcXQ5NnVNQjk5YlZXeW5kNUNRU2V6dmRtQWFmSzFrbC1tMmhSUEIwNENMNlpHaklzcGIxUGpocnRmSm94VE5vX0pnX1hZamNCdzFhUzV1N0NsS3BkV0NzS0ZmN0lLTmVMT295bloya3pYbtIB6AFBVV95cUxNNlhySDlUOHRxd0Z1LW5ZZFZlVW8tMzZmODZTLTNlQXpEV1E0aXFJX0lvR1pKdHByc2p0SFQ4UXV2bEc3M0FCdDBxMnBLS1lzMjk0c2YzeDByRXItVV85YWREMTE2ZncxYUlBaWc1eXJhcTJXQlVZS0hvWFZYc0VLaU5CcmZSRUdVZkJ6elVPOXhIdHZIamtHTTZJSEJSdm9yWTBQN2tjSmVsd2htejBpWVQySkl1TVQtbDdDWU51SV9TNTRvTGh4UWs4Uk14aXJyYTZub25SZ0hESldNbExRRW1nNklLTTdo?oc=5",
+      "date": "2024-07-02T07:00:00+00:00",
+      "source": "Oneman.gr",
       "category": "international"
     },
     {
